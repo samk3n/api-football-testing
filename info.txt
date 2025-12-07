@@ -1,0 +1,26 @@
+EVENTS:
+---
+Goals:
+---
+minute + extra_minute (nullable)
+result not null
+---
+---
+LINEUP:
+---
+Starting lineup --> type=lineup + formation_field & formation_position not null
+Bench --> type=bench + formation_field & formation_position null
+---
+
+
+DATABASE:
+---
+Tables:
+- Fixtures
+- Teams
+- Players
+- Referees
+- Competitions
+- Venues
+- Goals/Assists/Cards OR Events ???
+---

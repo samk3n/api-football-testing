@@ -1,0 +1,5706 @@
+[
+  {
+    "id": 4,
+    "sport_id": 1,
+    "league_id": 8,
+    "season_id": 6,
+    "type_id": 223,
+    "name": "Regular Season",
+    "sort_order": 1,
+    "finished": true,
+    "is_current": false,
+    "starting_at": "2008-08-16",
+    "ending_at": "2009-05-24",
+    "games_in_current_week": false,
+    "tie_breaker_rule_id": null,
+    "aggregates": [],
+    "rounds": [
+      {
+        "id": 264,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "32",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-04-11",
+        "ending_at": "2009-04-12",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 2655,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 264,
+            "state_id": 5,
+            "venue_id": 212,
+            "name": "Sunderland vs Manchester United",
+            "starting_at": "2009-04-11 14:00:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1239458400,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": true,
+                  "position": null
+                }
+              },
+              {
+                "id": 3,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 212,
+                "gender": "male",
+                "name": "Sunderland",
+                "short_code": "SUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/3/3.png",
+                "founded": 1879,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 14890,
+                "fixture_id": 2655,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 14889,
+                "fixture_id": 2655,
+                "type_id": 2,
+                "participant_id": 3,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 14892,
+                "fixture_id": 2655,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 14891,
+                "fixture_id": 2655,
+                "type_id": 1525,
+                "participant_id": 3,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 14888,
+                "fixture_id": 2655,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 14887,
+                "fixture_id": 2655,
+                "type_id": 1,
+                "participant_id": 3,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 233,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "28",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-03-03",
+        "ending_at": "2009-03-04",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 2327,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 233,
+            "state_id": 5,
+            "venue_id": 449,
+            "name": "Newcastle United vs Manchester United",
+            "starting_at": "2009-03-04 19:45:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1236195900,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": true,
+                  "position": null
+                }
+              },
+              {
+                "id": 20,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 449,
+                "gender": "male",
+                "name": "Newcastle United",
+                "short_code": "NEW",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/20/20.png",
+                "founded": 1892,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 13124,
+                "fixture_id": 2327,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 13128,
+                "fixture_id": 2327,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 13127,
+                "fixture_id": 2327,
+                "type_id": 1525,
+                "participant_id": 20,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 13126,
+                "fixture_id": 2327,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 13125,
+                "fixture_id": 2327,
+                "type_id": 2,
+                "participant_id": 20,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 13123,
+                "fixture_id": 2327,
+                "type_id": 1,
+                "participant_id": 20,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 195,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "24",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-01-31",
+        "ending_at": "2009-02-01",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 1975,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 195,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs Everton",
+            "starting_at": "2009-01-31 17:30:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1233423000,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              },
+              {
+                "id": 13,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 343762,
+                "gender": "male",
+                "name": "Everton",
+                "short_code": "EVE",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/13/13.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 11179,
+                "fixture_id": 1975,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 11184,
+                "fixture_id": 1975,
+                "type_id": 1525,
+                "participant_id": 13,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 11183,
+                "fixture_id": 1975,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 11181,
+                "fixture_id": 1975,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 11182,
+                "fixture_id": 1975,
+                "type_id": 2,
+                "participant_id": 13,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 11180,
+                "fixture_id": 1975,
+                "type_id": 1,
+                "participant_id": 13,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "3",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-08-30",
+        "ending_at": "2009-02-18",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 2151,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 51,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs Fulham",
+            "starting_at": "2009-02-18 20:00:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1234987200,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              },
+              {
+                "id": 11,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 485,
+                "gender": "male",
+                "name": "Fulham",
+                "short_code": "FUL",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/11/11.png",
+                "founded": 1879,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-02 19:30:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 12169,
+                "fixture_id": 2151,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 12172,
+                "fixture_id": 2151,
+                "type_id": 2,
+                "participant_id": 11,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 12171,
+                "fixture_id": 2151,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 3,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 12173,
+                "fixture_id": 2151,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 3,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 12174,
+                "fixture_id": 2151,
+                "type_id": 1525,
+                "participant_id": 11,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 12170,
+                "fixture_id": 2151,
+                "type_id": 1,
+                "participant_id": 11,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 180,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "22",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-01-17",
+        "ending_at": "2009-01-19",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 1800,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 180,
+            "state_id": 5,
+            "venue_id": 383,
+            "name": "Bolton Wanderers vs Manchester United",
+            "starting_at": "2009-01-17 15:00:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1232204400,
+            "participants": [
+              {
+                "id": 16,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 383,
+                "gender": "male",
+                "name": "Bolton Wanderers",
+                "short_code": "BOL",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/16/16.png",
+                "founded": 1874,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": true,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 10241,
+                "fixture_id": 1800,
+                "type_id": 1525,
+                "participant_id": 16,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 10242,
+                "fixture_id": 1800,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 10238,
+                "fixture_id": 1800,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 10237,
+                "fixture_id": 1800,
+                "type_id": 1,
+                "participant_id": 16,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 10240,
+                "fixture_id": 1800,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 10239,
+                "fixture_id": 1800,
+                "type_id": 2,
+                "participant_id": 16,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 186,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "23",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-01-27",
+        "ending_at": "2009-01-28",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 1867,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 186,
+            "state_id": 5,
+            "venue_id": 119,
+            "name": "West Bromwich Albion vs Manchester United",
+            "starting_at": "2009-01-27 20:15:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1233087300,
+            "participants": [
+              {
+                "id": 10,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 119,
+                "gender": "male",
+                "name": "West Bromwich Albion",
+                "short_code": "WBA",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/10/10.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": true,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 10597,
+                "fixture_id": 1867,
+                "type_id": 1,
+                "participant_id": 10,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 10601,
+                "fixture_id": 1867,
+                "type_id": 1525,
+                "participant_id": 10,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 10602,
+                "fixture_id": 1867,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 5,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 10600,
+                "fixture_id": 1867,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 5,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 10598,
+                "fixture_id": 1867,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 10599,
+                "fixture_id": 1867,
+                "type_id": 2,
+                "participant_id": 10,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 104,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "13",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-11-15",
+        "ending_at": "2008-11-16",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 1056,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 104,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs Stoke City",
+            "starting_at": "2008-11-15 15:00:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1226761200,
+            "participants": [
+              {
+                "id": 26,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 207,
+                "gender": "male",
+                "name": "Stoke City",
+                "short_code": "STK",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/26/26.png",
+                "founded": 1868,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 6174,
+                "fixture_id": 1056,
+                "type_id": 1525,
+                "participant_id": 26,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 6171,
+                "fixture_id": 1056,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 5,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 6173,
+                "fixture_id": 1056,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 5,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 6170,
+                "fixture_id": 1056,
+                "type_id": 1,
+                "participant_id": 26,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 6172,
+                "fixture_id": 1056,
+                "type_id": 2,
+                "participant_id": 26,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 6169,
+                "fixture_id": 1056,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 112,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "14",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-11-22",
+        "ending_at": "2008-11-24",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 1147,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 112,
+            "state_id": 5,
+            "venue_id": 5,
+            "name": "Aston Villa vs Manchester United",
+            "starting_at": "2008-11-22 17:30:00",
+            "result_info": "Game ended in draw.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1227375000,
+            "participants": [
+              {
+                "id": 15,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 5,
+                "gender": "male",
+                "name": "Aston Villa",
+                "short_code": "AVL",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/15/15.png",
+                "founded": 1874,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 12:30:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 6655,
+                "fixture_id": 1147,
+                "type_id": 1,
+                "participant_id": 15,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 6657,
+                "fixture_id": 1147,
+                "type_id": 2,
+                "participant_id": 15,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 6658,
+                "fixture_id": 1147,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 6660,
+                "fixture_id": 1147,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 6659,
+                "fixture_id": 1147,
+                "type_id": 1525,
+                "participant_id": 15,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 6656,
+                "fixture_id": 1147,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "9",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-10-25",
+        "ending_at": "2008-10-26",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 784,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 78,
+            "state_id": 5,
+            "venue_id": 12,
+            "name": "Everton vs Manchester United",
+            "starting_at": "2008-10-25 11:00:00",
+            "result_info": "Game ended in draw.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1224932400,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 13,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 343762,
+                "gender": "male",
+                "name": "Everton",
+                "short_code": "EVE",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/13/13.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 15511137,
+                "fixture_id": 784,
+                "type_id": 48996,
+                "participant_id": 13,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF_ONLY"
+              },
+              {
+                "id": 15511136,
+                "fixture_id": 784,
+                "type_id": 48996,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF_ONLY"
+              },
+              {
+                "id": 4742,
+                "fixture_id": 784,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 4741,
+                "fixture_id": 784,
+                "type_id": 1,
+                "participant_id": 13,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 4746,
+                "fixture_id": 784,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 4745,
+                "fixture_id": 784,
+                "type_id": 1525,
+                "participant_id": 13,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 4743,
+                "fixture_id": 784,
+                "type_id": 2,
+                "participant_id": 13,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 4744,
+                "fixture_id": 784,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 90,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "11",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-11-01",
+        "ending_at": "2008-11-03",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 934,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 90,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs Hull City",
+            "starting_at": "2008-11-01 15:00:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1225551600,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              },
+              {
+                "id": 22,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 199,
+                "gender": "male",
+                "name": "Hull City",
+                "short_code": "HUL",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/22/22.png",
+                "founded": 1904,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-05 20:15:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 5525,
+                "fixture_id": 934,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 4,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 5522,
+                "fixture_id": 934,
+                "type_id": 1,
+                "participant_id": 22,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 5526,
+                "fixture_id": 934,
+                "type_id": 1525,
+                "participant_id": 22,
+                "score": {
+                  "goals": 3,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 5521,
+                "fixture_id": 934,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 3,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 5524,
+                "fixture_id": 934,
+                "type_id": 2,
+                "participant_id": 22,
+                "score": {
+                  "goals": 3,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 5523,
+                "fixture_id": 934,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 4,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "8",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-10-18",
+        "ending_at": "2008-10-20",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 764,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 72,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs West Bromwich Albion",
+            "starting_at": "2008-10-18 16:30:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1224347400,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              },
+              {
+                "id": 10,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 119,
+                "gender": "male",
+                "name": "West Bromwich Albion",
+                "short_code": "WBA",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/10/10.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 4643,
+                "fixture_id": 764,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 4,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 15511103,
+                "fixture_id": 764,
+                "type_id": 48996,
+                "participant_id": 10,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF_ONLY"
+              },
+              {
+                "id": 15511102,
+                "fixture_id": 764,
+                "type_id": 48996,
+                "participant_id": 14,
+                "score": {
+                  "goals": 4,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF_ONLY"
+              },
+              {
+                "id": 4640,
+                "fixture_id": 764,
+                "type_id": 1,
+                "participant_id": 10,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 4641,
+                "fixture_id": 764,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 4,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 4644,
+                "fixture_id": 764,
+                "type_id": 1525,
+                "participant_id": 10,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 4642,
+                "fixture_id": 764,
+                "type_id": 2,
+                "participant_id": 10,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 4639,
+                "fixture_id": 764,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 248,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "30",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-03-21",
+        "ending_at": "2009-03-22",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 2493,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 248,
+            "state_id": 5,
+            "venue_id": 485,
+            "name": "Fulham vs Manchester United",
+            "starting_at": "2009-03-21 15:00:00",
+            "result_info": "Fulham won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1237647600,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 11,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 485,
+                "gender": "male",
+                "name": "Fulham",
+                "short_code": "FUL",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/11/11.png",
+                "founded": 1879,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-02 19:30:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 14015,
+                "fixture_id": 2493,
+                "type_id": 1525,
+                "participant_id": 11,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 14016,
+                "fixture_id": 2493,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 14012,
+                "fixture_id": 2493,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 14011,
+                "fixture_id": 2493,
+                "type_id": 1,
+                "participant_id": 11,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 14014,
+                "fixture_id": 2493,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 14013,
+                "fixture_id": 2493,
+                "type_id": 2,
+                "participant_id": 11,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 240,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "29",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-03-14",
+        "ending_at": "2009-03-16",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 2394,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 240,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs Liverpool",
+            "starting_at": "2009-03-14 12:45:00",
+            "result_info": "Liverpool won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1237034700,
+            "participants": [
+              {
+                "id": 8,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 230,
+                "gender": "male",
+                "name": "Liverpool",
+                "short_code": "LIV",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/8/8.png",
+                "founded": 1892,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 17:30:00",
+                "meta": {
+                  "location": "away",
+                  "winner": true,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 13488,
+                "fixture_id": 2394,
+                "type_id": 1525,
+                "participant_id": 8,
+                "score": {
+                  "goals": 4,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 13487,
+                "fixture_id": 2394,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 13484,
+                "fixture_id": 2394,
+                "type_id": 1,
+                "participant_id": 8,
+                "score": {
+                  "goals": 2,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 13486,
+                "fixture_id": 2394,
+                "type_id": 2,
+                "participant_id": 8,
+                "score": {
+                  "goals": 4,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 13483,
+                "fixture_id": 2394,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 13485,
+                "fixture_id": 2394,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 316,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "38",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-05-24",
+        "ending_at": "2009-05-24",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 3160,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 316,
+            "state_id": 5,
+            "venue_id": 199,
+            "name": "Hull City vs Manchester United",
+            "starting_at": "2009-05-24 15:00:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1243177200,
+            "participants": [
+              {
+                "id": 22,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 199,
+                "gender": "male",
+                "name": "Hull City",
+                "short_code": "HUL",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/22/22.png",
+                "founded": 1904,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-05 20:15:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": true,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 17640,
+                "fixture_id": 3160,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 17635,
+                "fixture_id": 3160,
+                "type_id": 1,
+                "participant_id": 22,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 17636,
+                "fixture_id": 3160,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 17637,
+                "fixture_id": 3160,
+                "type_id": 2,
+                "participant_id": 22,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 17639,
+                "fixture_id": 3160,
+                "type_id": 1525,
+                "participant_id": 22,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 17638,
+                "fixture_id": 3160,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 281,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "34",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-04-25",
+        "ending_at": "2009-04-27",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 2853,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 281,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs Tottenham Hotspur",
+            "starting_at": "2009-04-25 16:30:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1240677000,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              },
+              {
+                "id": 6,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 281313,
+                "gender": "male",
+                "name": "Tottenham Hotspur",
+                "short_code": "TOT",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/6/6.png",
+                "founded": 1882,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 15967,
+                "fixture_id": 2853,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 15968,
+                "fixture_id": 2853,
+                "type_id": 1,
+                "participant_id": 6,
+                "score": {
+                  "goals": 2,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 15971,
+                "fixture_id": 2853,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 5,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 15969,
+                "fixture_id": 2853,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 5,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 15972,
+                "fixture_id": 2853,
+                "type_id": 1525,
+                "participant_id": 6,
+                "score": {
+                  "goals": 2,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 15970,
+                "fixture_id": 2853,
+                "type_id": 2,
+                "participant_id": 6,
+                "score": {
+                  "goals": 2,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 256,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "31",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-04-04",
+        "ending_at": "2009-04-05",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 2619,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 256,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs Aston Villa",
+            "starting_at": "2009-04-05 15:00:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1238943600,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              },
+              {
+                "id": 15,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 5,
+                "gender": "male",
+                "name": "Aston Villa",
+                "short_code": "AVL",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/15/15.png",
+                "founded": 1874,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 12:30:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 14691,
+                "fixture_id": 2619,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 3,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 14690,
+                "fixture_id": 2619,
+                "type_id": 1,
+                "participant_id": 15,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 14689,
+                "fixture_id": 2619,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 14692,
+                "fixture_id": 2619,
+                "type_id": 2,
+                "participant_id": 15,
+                "score": {
+                  "goals": 2,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 14693,
+                "fixture_id": 2619,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 3,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 14694,
+                "fixture_id": 2619,
+                "type_id": 1525,
+                "participant_id": 15,
+                "score": {
+                  "goals": 2,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "5",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-09-20",
+        "ending_at": "2008-09-21",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 622,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 59,
+            "state_id": 5,
+            "venue_id": 321614,
+            "name": "Chelsea vs Manchester United",
+            "starting_at": "2008-09-21 13:00:00",
+            "result_info": "Game ended in draw.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1222002000,
+            "participants": [
+              {
+                "id": 18,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 321614,
+                "gender": "male",
+                "name": "Chelsea",
+                "short_code": "CHE",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/18/18.png",
+                "founded": 1905,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 3847,
+                "fixture_id": 622,
+                "type_id": 2,
+                "participant_id": 18,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 3850,
+                "fixture_id": 622,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 3852,
+                "fixture_id": 622,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 15510839,
+                "fixture_id": 622,
+                "type_id": 48996,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF_ONLY"
+              },
+              {
+                "id": 15510838,
+                "fixture_id": 622,
+                "type_id": 48996,
+                "participant_id": 18,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF_ONLY"
+              },
+              {
+                "id": 3851,
+                "fixture_id": 622,
+                "type_id": 1525,
+                "participant_id": 18,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 3849,
+                "fixture_id": 622,
+                "type_id": 1,
+                "participant_id": 18,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 3848,
+                "fixture_id": 622,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 118,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "15",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-11-29",
+        "ending_at": "2008-12-01",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 1210,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 118,
+            "state_id": 5,
+            "venue_id": 151,
+            "name": "Manchester City vs Manchester United",
+            "starting_at": "2008-11-30 13:30:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1228051800,
+            "participants": [
+              {
+                "id": 9,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 151,
+                "gender": "male",
+                "name": "Manchester City",
+                "short_code": "MCI",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/9/9.png",
+                "founded": 1880,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": true,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 6999,
+                "fixture_id": 1210,
+                "type_id": 2,
+                "participant_id": 9,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 7000,
+                "fixture_id": 1210,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 6997,
+                "fixture_id": 1210,
+                "type_id": 1,
+                "participant_id": 9,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 7002,
+                "fixture_id": 1210,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 6998,
+                "fixture_id": 1210,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 7001,
+                "fixture_id": 1210,
+                "type_id": 1525,
+                "participant_id": 9,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 125,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "16",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-12-06",
+        "ending_at": "2008-12-08",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 1290,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 125,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs Sunderland",
+            "starting_at": "2008-12-06 17:30:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1228584600,
+            "participants": [
+              {
+                "id": 3,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 212,
+                "gender": "male",
+                "name": "Sunderland",
+                "short_code": "SUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/3/3.png",
+                "founded": 1879,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 7434,
+                "fixture_id": 1290,
+                "type_id": 1525,
+                "participant_id": 3,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 7432,
+                "fixture_id": 1290,
+                "type_id": 1,
+                "participant_id": 3,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 7430,
+                "fixture_id": 1290,
+                "type_id": 2,
+                "participant_id": 3,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 7431,
+                "fixture_id": 1290,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 7429,
+                "fixture_id": 1290,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 7433,
+                "fixture_id": 1290,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "4",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-09-13",
+        "ending_at": "2008-09-15",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 566,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 55,
+            "state_id": 5,
+            "venue_id": 230,
+            "name": "Liverpool vs Manchester United",
+            "starting_at": "2008-09-13 11:45:00",
+            "result_info": "Liverpool won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1221306300,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 8,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 230,
+                "gender": "male",
+                "name": "Liverpool",
+                "short_code": "LIV",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/8/8.png",
+                "founded": 1892,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 17:30:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 15510726,
+                "fixture_id": 566,
+                "type_id": 48996,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF_ONLY"
+              },
+              {
+                "id": 15510727,
+                "fixture_id": 566,
+                "type_id": 48996,
+                "participant_id": 8,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF_ONLY"
+              },
+              {
+                "id": 3515,
+                "fixture_id": 566,
+                "type_id": 1525,
+                "participant_id": 8,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 3511,
+                "fixture_id": 566,
+                "type_id": 1,
+                "participant_id": 8,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 3514,
+                "fixture_id": 566,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 3513,
+                "fixture_id": 566,
+                "type_id": 2,
+                "participant_id": 8,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 3512,
+                "fixture_id": 566,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 3516,
+                "fixture_id": 566,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 133,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "17",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-12-13",
+        "ending_at": "2008-12-14",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 1417,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 133,
+            "state_id": 5,
+            "venue_id": 209,
+            "name": "Tottenham Hotspur vs Manchester United",
+            "starting_at": "2008-12-13 17:30:00",
+            "result_info": "Game ended in draw.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1229189400,
+            "participants": [
+              {
+                "id": 6,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 281313,
+                "gender": "male",
+                "name": "Tottenham Hotspur",
+                "short_code": "TOT",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/6/6.png",
+                "founded": 1882,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 8143,
+                "fixture_id": 1417,
+                "type_id": 1,
+                "participant_id": 6,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 8147,
+                "fixture_id": 1417,
+                "type_id": 1525,
+                "participant_id": 6,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 8148,
+                "fixture_id": 1417,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 8144,
+                "fixture_id": 1417,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 8145,
+                "fixture_id": 1417,
+                "type_id": 2,
+                "participant_id": 6,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 8146,
+                "fixture_id": 1417,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 171,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "21",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-01-10",
+        "ending_at": "2009-03-11",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 1755,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 171,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs Chelsea",
+            "starting_at": "2009-01-11 16:00:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1231689600,
+            "participants": [
+              {
+                "id": 18,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 321614,
+                "gender": "male",
+                "name": "Chelsea",
+                "short_code": "CHE",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/18/18.png",
+                "founded": 1905,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 9992,
+                "fixture_id": 1755,
+                "type_id": 1,
+                "participant_id": 18,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 9993,
+                "fixture_id": 1755,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 3,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 9995,
+                "fixture_id": 1755,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 3,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 9996,
+                "fixture_id": 1755,
+                "type_id": 1525,
+                "participant_id": 18,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 9991,
+                "fixture_id": 1755,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 9994,
+                "fixture_id": 1755,
+                "type_id": 2,
+                "participant_id": 18,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 218,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "26",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-02-21",
+        "ending_at": "2009-02-23",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 2207,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 218,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs Blackburn Rovers",
+            "starting_at": "2009-02-21 17:30:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1235237400,
+            "participants": [
+              {
+                "id": 2,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 8,
+                "gender": "male",
+                "name": "Blackburn Rovers",
+                "short_code": "BBR",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/2/2.png",
+                "founded": 1875,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-02 19:45:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 12475,
+                "fixture_id": 2207,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 12478,
+                "fixture_id": 2207,
+                "type_id": 2,
+                "participant_id": 2,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 12480,
+                "fixture_id": 2207,
+                "type_id": 1525,
+                "participant_id": 2,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 12479,
+                "fixture_id": 2207,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 12476,
+                "fixture_id": 2207,
+                "type_id": 1,
+                "participant_id": 2,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 12477,
+                "fixture_id": 2207,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 149,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "18",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-12-20",
+        "ending_at": "2009-01-14",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 1762,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 149,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs Wigan Athletic",
+            "starting_at": "2009-01-14 20:00:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1231963200,
+            "participants": [
+              {
+                "id": 17,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 14,
+                "gender": "male",
+                "name": "Wigan Athletic",
+                "short_code": "WIG",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/17/17.png",
+                "founded": 1932,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 10032,
+                "fixture_id": 1762,
+                "type_id": 1525,
+                "participant_id": 17,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 10027,
+                "fixture_id": 1762,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 10029,
+                "fixture_id": 1762,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 10031,
+                "fixture_id": 1762,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 10028,
+                "fixture_id": 1762,
+                "type_id": 1,
+                "participant_id": 17,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 10030,
+                "fixture_id": 1762,
+                "type_id": 2,
+                "participant_id": 17,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "10",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-10-28",
+        "ending_at": "2008-10-29",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 877,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 83,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs West Ham United",
+            "starting_at": "2008-10-29 20:00:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1225310400,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              },
+              {
+                "id": 1,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 214,
+                "gender": "male",
+                "name": "West Ham United",
+                "short_code": "WHU",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/1/1.png",
+                "founded": 1895,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 5220,
+                "fixture_id": 877,
+                "type_id": 1525,
+                "participant_id": 1,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 5218,
+                "fixture_id": 877,
+                "type_id": 2,
+                "participant_id": 1,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 5215,
+                "fixture_id": 877,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 5216,
+                "fixture_id": 877,
+                "type_id": 1,
+                "participant_id": 1,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 5217,
+                "fixture_id": 877,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 5219,
+                "fixture_id": 877,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 307,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "37",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-05-16",
+        "ending_at": "2009-05-18",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 3068,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 307,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs Arsenal",
+            "starting_at": "2009-05-16 11:45:00",
+            "result_info": "Game ended in draw.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1242474300,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 19,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 204,
+                "gender": "male",
+                "name": "Arsenal",
+                "short_code": "ARS",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/19/19.png",
+                "founded": 1886,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 12:30:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 17137,
+                "fixture_id": 3068,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 17141,
+                "fixture_id": 3068,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 17142,
+                "fixture_id": 3068,
+                "type_id": 1525,
+                "participant_id": 19,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 17138,
+                "fixture_id": 3068,
+                "type_id": 1,
+                "participant_id": 19,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 17139,
+                "fixture_id": 3068,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 17140,
+                "fixture_id": 3068,
+                "type_id": 2,
+                "participant_id": 19,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "6",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-09-27",
+        "ending_at": "2008-09-28",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 659,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 63,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs Bolton Wanderers",
+            "starting_at": "2008-09-27 14:00:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1222524000,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              },
+              {
+                "id": 16,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 383,
+                "gender": "male",
+                "name": "Bolton Wanderers",
+                "short_code": "BOL",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/16/16.png",
+                "founded": 1874,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 15510913,
+                "fixture_id": 659,
+                "type_id": 48996,
+                "participant_id": 16,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF_ONLY"
+              },
+              {
+                "id": 15510912,
+                "fixture_id": 659,
+                "type_id": 48996,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF_ONLY"
+              },
+              {
+                "id": 4074,
+                "fixture_id": 659,
+                "type_id": 1525,
+                "participant_id": 16,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 4072,
+                "fixture_id": 659,
+                "type_id": 2,
+                "participant_id": 16,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 4073,
+                "fixture_id": 659,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 4069,
+                "fixture_id": 659,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 4070,
+                "fixture_id": 659,
+                "type_id": 1,
+                "participant_id": 16,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 4071,
+                "fixture_id": 659,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "1",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-08-16",
+        "ending_at": "2008-08-17",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 499,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 45,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs Newcastle United",
+            "starting_at": "2008-08-17 15:00:00",
+            "result_info": "Game ended in draw.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1218985200,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 20,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 449,
+                "gender": "male",
+                "name": "Newcastle United",
+                "short_code": "NEW",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/20/20.png",
+                "founded": 1892,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 3109,
+                "fixture_id": 499,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 3110,
+                "fixture_id": 499,
+                "type_id": 1,
+                "participant_id": 20,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 3111,
+                "fixture_id": 499,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 3112,
+                "fixture_id": 499,
+                "type_id": 2,
+                "participant_id": 20,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 3113,
+                "fixture_id": 499,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 3114,
+                "fixture_id": 499,
+                "type_id": 1525,
+                "participant_id": 20,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 15510593,
+                "fixture_id": 499,
+                "type_id": 48996,
+                "participant_id": 20,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF_ONLY"
+              },
+              {
+                "id": 15510592,
+                "fixture_id": 499,
+                "type_id": 48996,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF_ONLY"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 156,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "19",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-12-26",
+        "ending_at": "2008-12-26",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 1549,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 156,
+            "state_id": 5,
+            "venue_id": 207,
+            "name": "Stoke City vs Manchester United",
+            "starting_at": "2008-12-26 12:45:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1230295500,
+            "participants": [
+              {
+                "id": 26,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 207,
+                "gender": "male",
+                "name": "Stoke City",
+                "short_code": "STK",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/26/26.png",
+                "founded": 1868,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": true,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 8885,
+                "fixture_id": 1549,
+                "type_id": 1525,
+                "participant_id": 26,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 8886,
+                "fixture_id": 1549,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 8883,
+                "fixture_id": 1549,
+                "type_id": 2,
+                "participant_id": 26,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 8884,
+                "fixture_id": 1549,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 8881,
+                "fixture_id": 1549,
+                "type_id": 1,
+                "participant_id": 26,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 8882,
+                "fixture_id": 1549,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 164,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "20",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-12-28",
+        "ending_at": "2008-12-30",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 1689,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 164,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs Middlesbrough",
+            "starting_at": "2008-12-29 20:00:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1230580800,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              },
+              {
+                "id": 7,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 203,
+                "gender": "male",
+                "name": "Middlesbrough",
+                "short_code": "MID",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/7/7.png",
+                "founded": 1876,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-05 20:15:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 9641,
+                "fixture_id": 1689,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 9642,
+                "fixture_id": 1689,
+                "type_id": 1525,
+                "participant_id": 7,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 9638,
+                "fixture_id": 1689,
+                "type_id": 1,
+                "participant_id": 7,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 9639,
+                "fixture_id": 1689,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 9640,
+                "fixture_id": 1689,
+                "type_id": 2,
+                "participant_id": 7,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 9637,
+                "fixture_id": 1689,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 97,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "12",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-11-08",
+        "ending_at": "2008-11-09",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 974,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 97,
+            "state_id": 5,
+            "venue_id": 204,
+            "name": "Arsenal vs Manchester United",
+            "starting_at": "2008-11-08 12:45:00",
+            "result_info": "Arsenal won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1226148300,
+            "participants": [
+              {
+                "id": 19,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 204,
+                "gender": "male",
+                "name": "Arsenal",
+                "short_code": "ARS",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/19/19.png",
+                "founded": 1886,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 12:30:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 5736,
+                "fixture_id": 974,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 5731,
+                "fixture_id": 974,
+                "type_id": 1,
+                "participant_id": 19,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 5732,
+                "fixture_id": 974,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 5734,
+                "fixture_id": 974,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 5735,
+                "fixture_id": 974,
+                "type_id": 1525,
+                "participant_id": 19,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 5733,
+                "fixture_id": 974,
+                "type_id": 2,
+                "participant_id": 19,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "2",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-08-23",
+        "ending_at": "2008-08-25",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 532,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 49,
+            "state_id": 5,
+            "venue_id": 839,
+            "name": "Portsmouth vs Manchester United",
+            "starting_at": "2008-08-25 19:00:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1219690800,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": true,
+                  "position": null
+                }
+              },
+              {
+                "id": 5,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 839,
+                "gender": "male",
+                "name": "Portsmouth",
+                "short_code": "PTM",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/5/5.png",
+                "founded": 1898,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-11-29 12:30:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 15510659,
+                "fixture_id": 532,
+                "type_id": 48996,
+                "participant_id": 5,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF_ONLY"
+              },
+              {
+                "id": 15510658,
+                "fixture_id": 532,
+                "type_id": 48996,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF_ONLY"
+              },
+              {
+                "id": 3312,
+                "fixture_id": 532,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 3311,
+                "fixture_id": 532,
+                "type_id": 1525,
+                "participant_id": 5,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 3308,
+                "fixture_id": 532,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 3307,
+                "fixture_id": 532,
+                "type_id": 1,
+                "participant_id": 5,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 3310,
+                "fixture_id": 532,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 3309,
+                "fixture_id": 532,
+                "type_id": 2,
+                "participant_id": 5,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 299,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "36",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-05-09",
+        "ending_at": "2009-05-11",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 3030,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 299,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs Manchester City",
+            "starting_at": "2009-05-10 12:30:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1241958600,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              },
+              {
+                "id": 9,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 151,
+                "gender": "male",
+                "name": "Manchester City",
+                "short_code": "MCI",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/9/9.png",
+                "founded": 1880,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 16927,
+                "fixture_id": 3030,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 16928,
+                "fixture_id": 3030,
+                "type_id": 1,
+                "participant_id": 9,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 16929,
+                "fixture_id": 3030,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 16931,
+                "fixture_id": 3030,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 16932,
+                "fixture_id": 3030,
+                "type_id": 1525,
+                "participant_id": 9,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 16930,
+                "fixture_id": 3030,
+                "type_id": 2,
+                "participant_id": 9,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 201,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "25",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-02-07",
+        "ending_at": "2009-02-08",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 2114,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 201,
+            "state_id": 5,
+            "venue_id": 4,
+            "name": "West Ham United vs Manchester United",
+            "starting_at": "2009-02-08 16:00:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1234108800,
+            "participants": [
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": true,
+                  "position": null
+                }
+              },
+              {
+                "id": 1,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 214,
+                "gender": "male",
+                "name": "West Ham United",
+                "short_code": "WHU",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/1/1.png",
+                "founded": 1895,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 11953,
+                "fixture_id": 2114,
+                "type_id": 1,
+                "participant_id": 1,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 11955,
+                "fixture_id": 2114,
+                "type_id": 2,
+                "participant_id": 1,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 11958,
+                "fixture_id": 2114,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 11957,
+                "fixture_id": 2114,
+                "type_id": 1525,
+                "participant_id": 1,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 11954,
+                "fixture_id": 2114,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 11956,
+                "fixture_id": 2114,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 226,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "27",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-02-28",
+        "ending_at": "2009-04-22",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 2793,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 226,
+            "state_id": 5,
+            "venue_id": 206,
+            "name": "Manchester United vs Portsmouth",
+            "starting_at": "2009-04-22 19:00:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1240426800,
+            "participants": [
+              {
+                "id": 5,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 839,
+                "gender": "male",
+                "name": "Portsmouth",
+                "short_code": "PTM",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/5/5.png",
+                "founded": 1898,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-11-29 12:30:00",
+                "meta": {
+                  "location": "away",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": true,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 15641,
+                "fixture_id": 2793,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 15637,
+                "fixture_id": 2793,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 15639,
+                "fixture_id": 2793,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 15642,
+                "fixture_id": 2793,
+                "type_id": 1525,
+                "participant_id": 5,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 15638,
+                "fixture_id": 2793,
+                "type_id": 1,
+                "participant_id": 5,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 15640,
+                "fixture_id": 2793,
+                "type_id": 2,
+                "participant_id": 5,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 289,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "35",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-05-02",
+        "ending_at": "2009-05-04",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 2887,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 289,
+            "state_id": 5,
+            "venue_id": 203,
+            "name": "Middlesbrough vs Manchester United",
+            "starting_at": "2009-05-02 11:45:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1241264700,
+            "participants": [
+              {
+                "id": 7,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 203,
+                "gender": "male",
+                "name": "Middlesbrough",
+                "short_code": "MID",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/7/7.png",
+                "founded": 1876,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-05 20:15:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": true,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 16153,
+                "fixture_id": 2887,
+                "type_id": 1,
+                "participant_id": 7,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 16154,
+                "fixture_id": 2887,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 16155,
+                "fixture_id": 2887,
+                "type_id": 2,
+                "participant_id": 7,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 16156,
+                "fixture_id": 2887,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 16157,
+                "fixture_id": 2887,
+                "type_id": 1525,
+                "participant_id": 7,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 16158,
+                "fixture_id": 2887,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 273,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "33",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2009-04-18",
+        "ending_at": "2009-05-13",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 3059,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 273,
+            "state_id": 5,
+            "venue_id": 14,
+            "name": "Wigan Athletic vs Manchester United",
+            "starting_at": "2009-05-13 19:00:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1242241200,
+            "participants": [
+              {
+                "id": 17,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 14,
+                "gender": "male",
+                "name": "Wigan Athletic",
+                "short_code": "WIG",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/17/17.png",
+                "founded": 1932,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-06 15:00:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": true,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 17089,
+                "fixture_id": 3059,
+                "type_id": 1,
+                "participant_id": 17,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 17090,
+                "fixture_id": 3059,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 0,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 17091,
+                "fixture_id": 3059,
+                "type_id": 2,
+                "participant_id": 17,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 17092,
+                "fixture_id": 3059,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 17093,
+                "fixture_id": 3059,
+                "type_id": 1525,
+                "participant_id": 17,
+                "score": {
+                  "goals": 1,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 17094,
+                "fixture_id": 3059,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "sport_id": 1,
+        "league_id": 8,
+        "season_id": 6,
+        "stage_id": 4,
+        "name": "7",
+        "finished": true,
+        "is_current": false,
+        "starting_at": "2008-10-04",
+        "ending_at": "2008-10-05",
+        "games_in_current_week": false,
+        "fixtures": [
+          {
+            "id": 698,
+            "sport_id": 1,
+            "league_id": 8,
+            "season_id": 6,
+            "stage_id": 4,
+            "group_id": null,
+            "aggregate_id": null,
+            "round_id": 67,
+            "state_id": 5,
+            "venue_id": 339721,
+            "name": "Blackburn Rovers vs Manchester United",
+            "starting_at": "2008-10-04 16:30:00",
+            "result_info": "Manchester United won after full-time.",
+            "leg": "1/1",
+            "details": null,
+            "length": 90,
+            "placeholder": false,
+            "has_odds": false,
+            "has_premium_odds": false,
+            "starting_at_timestamp": 1223137800,
+            "participants": [
+              {
+                "id": 2,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 8,
+                "gender": "male",
+                "name": "Blackburn Rovers",
+                "short_code": "BBR",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/2/2.png",
+                "founded": 1875,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-02 19:45:00",
+                "meta": {
+                  "location": "home",
+                  "winner": false,
+                  "position": null
+                }
+              },
+              {
+                "id": 14,
+                "sport_id": 1,
+                "country_id": 462,
+                "venue_id": 206,
+                "gender": "male",
+                "name": "Manchester United",
+                "short_code": "MUN",
+                "image_path": "https://cdn.sportmonks.com/images/soccer/teams/14/14.png",
+                "founded": 1878,
+                "type": "domestic",
+                "placeholder": false,
+                "last_played_at": "2025-12-04 20:00:00",
+                "meta": {
+                  "location": "away",
+                  "winner": true,
+                  "position": null
+                }
+              }
+            ],
+            "scores": [
+              {
+                "id": 15510990,
+                "fixture_id": 698,
+                "type_id": 48996,
+                "participant_id": 2,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF_ONLY"
+              },
+              {
+                "id": 15510991,
+                "fixture_id": 698,
+                "type_id": 48996,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF_ONLY"
+              },
+              {
+                "id": 4307,
+                "fixture_id": 698,
+                "type_id": 1525,
+                "participant_id": 2,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 4303,
+                "fixture_id": 698,
+                "type_id": 1,
+                "participant_id": 2,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 4306,
+                "fixture_id": 698,
+                "type_id": 2,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "away"
+                },
+                "description": "2ND_HALF"
+              },
+              {
+                "id": 4308,
+                "fixture_id": 698,
+                "type_id": 1525,
+                "participant_id": 14,
+                "score": {
+                  "goals": 2,
+                  "participant": "away"
+                },
+                "description": "CURRENT"
+              },
+              {
+                "id": 4304,
+                "fixture_id": 698,
+                "type_id": 1,
+                "participant_id": 14,
+                "score": {
+                  "goals": 1,
+                  "participant": "away"
+                },
+                "description": "1ST_HALF"
+              },
+              {
+                "id": 4305,
+                "fixture_id": 698,
+                "type_id": 2,
+                "participant_id": 2,
+                "score": {
+                  "goals": 0,
+                  "participant": "home"
+                },
+                "description": "2ND_HALF"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

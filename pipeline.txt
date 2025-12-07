@@ -1,0 +1,4 @@
+Player ID
+Get player's career history (teams and seasons) --> /players/teams?player=874
+Get fixtures list for each teams and seasons combination --> /fixtures?team=27&season=2023
+Get all the details for each fixture based on the fixture id --> /fixtures?id=980486
