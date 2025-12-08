@@ -28,15 +28,15 @@ const response = (endpoint) => {
 
 // TEST season 6 team 14
 
-const request = await response(`/fixtures/19433865?include=lineups.type;events.type;events.subtype;statistics.type;participants;stage.type;round;venue;referees.referee;referees.type;periods;formations;aggregate;group`)
-// const request = await response(`/teams/search/paris`)
+// const request = await response(`/fixtures/19433865?include=lineups.type;events.type;events.subtype;statistics.type;participants;stage.type;round;venue;referees.referee;referees.type;periods;formations;aggregate;group`)
+const request = await response(`/teams/search/manchester%20united`)
 // const request = await response(`/fixtures/between/2025-12-06/2025-12-06/591`)
 // const request = await response(`/players/580?include=statistics.details.type`)
 // const request = await response(`/schedules/seasons/6/teams/14`)
 
 const data = await request.json()
-// console.log(data)
-fs.writeFileSync("test3.json", JSON.stringify(data.data, null, 2))
+console.log(data)
+// fs.writeFileSync("test3.json", JSON.stringify(data.data, null, 2))
 
 // Get player career history: /players/580?include=statistics --> Gather team_id & season_id
 // Get every fixture id for each team-season pair: /schedules/seasons/{season_id}/teams/{team_id} --> Gather fixtures ids in [rounds[fixtures[{id}]]]
