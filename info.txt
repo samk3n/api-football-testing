@@ -4,6 +4,7 @@ Goals:
 ---
 minute + extra_minute (nullable)
 result not null
+PENALTY --> addition (GoalkeeperSave OR OffTarget)
 ---
 ---
 LINEUP:

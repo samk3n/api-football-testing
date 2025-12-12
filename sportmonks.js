@@ -1,5 +1,5 @@
 const apiKey = "QQNFz4STr6Yj83riCpb1dwjFA0VF0eiDwjaaxTAwfyU1EPRtxWeRkZjx5N9g"
-const host = "https://api.sportmonks.com/v3/football"
+const host = "https://api.sportmonks.com/v3"
 import fs from "fs"
 
 const options = (method = "GET") => {
@@ -25,21 +25,48 @@ const response = (endpoint) => {
 // France 18647
 // Bayern 503
 // PSG 591
+// Man Utd 14
+// Brighton 78
+// Auxerre 3682
+// Wolfsburg 510
 
 // TEST season 6 team 14
 
-// const request = await response(`/fixtures/19433865?include=lineups.type;events.type;events.subtype;statistics.type;participants;stage.type;round;venue;referees.referee;referees.type;periods;formations;aggregate;group`)
-const request = await response(`/teams/search/manchester%20united`)
-// const request = await response(`/fixtures/between/2025-12-06/2025-12-06/591`)
-// const request = await response(`/players/580?include=statistics.details.type`)
-// const request = await response(`/schedules/seasons/6/teams/14`)
+const request = await response(`/football/fixtures/19439431?include=
+league;
+season;
+participants;
+lineups.player;
+lineups.type;
+lineups.position;
+events.player;
+events.type;
+events.subtype;
+statistics.type;
+stage.type;
+round;
+venue.country.continent;
+venue.city;
+referees.referee;
+referees.type;
+periods;
+formations;
+aggregate;
+group;
+coaches;
+predictions.type`)
+// const request = await response(`/football/teams/search/wolfsburg`)
+// const request = await response(`/football/fixtures/between/2025-12-02/2025-12-02/83`)
+// const request = await response(`/football/players/407775?include=statistics`)
+// const request = await response(`/football/schedules/seasons/6/teams/14`)
+// const request = await response(`/core/types`)
 
 const data = await request.json()
-console.log(data)
-// fs.writeFileSync("test3.json", JSON.stringify(data.data, null, 2))
+// console.log(data)
+fs.writeFileSync("test4.json", JSON.stringify(data.data, null, 2))
 
 // Get player career history: /players/580?include=statistics --> Gather team_id & season_id
 // Get every fixture id for each team-season pair: /schedules/seasons/{season_id}/teams/{team_id} --> Gather fixtures ids in [rounds[fixtures[{id}]]]
-// Get fixture details for each fixture id: /fixtures/{fixture_id}?include=lineups;events.type;events.subtype;statistics.type;participants;stage.type;round;venue;referees.referee;referees.type;periods;formations;aggregate
+// Get fixture details for each fixture id: /football/fixtures/19439431?include=league;season;participants;lineups.player;lineups.type;lineups.position;events.player;events.type;events.subtype;statistics.type;stage.type;round;venue.country.continent;venue.city;referees.referee;referees.type;periods;formations;aggregate;group;coaches;predictions.type
 
 // TODO

@@ -1,0 +1,3435 @@
+{
+  "id": 19433591,
+  "sport_id": 1,
+  "league_id": 82,
+  "season_id": 25646,
+  "stage_id": 77476914,
+  "group_id": null,
+  "aggregate_id": null,
+  "round_id": 393431,
+  "state_id": 5,
+  "venue_id": 80,
+  "name": "VfL Wolfsburg vs FC Union Berlin",
+  "starting_at": "2025-12-06 14:30:00",
+  "result_info": "VfL Wolfsburg won after full-time.",
+  "leg": "1/1",
+  "details": null,
+  "length": 90,
+  "placeholder": false,
+  "has_odds": true,
+  "has_premium_odds": true,
+  "starting_at_timestamp": 1765031400,
+  "lineups": [
+    {
+      "id": 14671665552,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 1494392,
+      "team_id": 510,
+      "position_id": 24,
+      "formation_field": "1:1",
+      "type_id": 11,
+      "formation_position": 1,
+      "player_name": "Kamil Grabara",
+      "jersey_number": 1,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685818,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 180894,
+      "team_id": 510,
+      "position_id": 25,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Denis Vavro",
+      "jersey_number": 3,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671665553,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 37328010,
+      "team_id": 510,
+      "position_id": 25,
+      "formation_field": "2:3",
+      "type_id": 11,
+      "formation_position": 4,
+      "player_name": "Konstantinos Koulierakis",
+      "jersey_number": 4,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685819,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 1685328,
+      "team_id": 510,
+      "position_id": 27,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Andreas Skov Olsen",
+      "jersey_number": 7,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671665554,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 37430769,
+      "team_id": 510,
+      "position_id": 27,
+      "formation_field": "5:1",
+      "type_id": 11,
+      "formation_position": 11,
+      "player_name": "Mohamed Amoura",
+      "jersey_number": 9,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671665555,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 74116,
+      "team_id": 510,
+      "position_id": 26,
+      "formation_field": "4:2",
+      "type_id": 11,
+      "formation_position": 9,
+      "player_name": "Lovro Majer",
+      "jersey_number": 10,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685820,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 52353,
+      "team_id": 510,
+      "position_id": 24,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Pavao Pervan",
+      "jersey_number": 12,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671665556,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 37546753,
+      "team_id": 510,
+      "position_id": 25,
+      "formation_field": "2:2",
+      "type_id": 11,
+      "formation_position": 3,
+      "player_name": "Jenson Seelt",
+      "jersey_number": 14,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685821,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 37590611,
+      "team_id": 510,
+      "position_id": 27,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Dzenan Pejcinovic",
+      "jersey_number": 17,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671665557,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 992,
+      "team_id": 510,
+      "position_id": 26,
+      "formation_field": "4:1",
+      "type_id": 11,
+      "formation_position": 8,
+      "player_name": "Christian Eriksen",
+      "jersey_number": 24,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671665558,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 37577470,
+      "team_id": 510,
+      "position_id": 25,
+      "formation_field": "2:4",
+      "type_id": 11,
+      "formation_position": 5,
+      "player_name": "Aaron Zehnter",
+      "jersey_number": 25,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671665559,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 37591826,
+      "team_id": 510,
+      "position_id": 25,
+      "formation_field": "2:1",
+      "type_id": 11,
+      "formation_position": 2,
+      "player_name": "Saël Kumbedi",
+      "jersey_number": 26,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671665560,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 31730,
+      "team_id": 510,
+      "position_id": 26,
+      "formation_field": "3:2",
+      "type_id": 11,
+      "formation_position": 7,
+      "player_name": "Maximilian Arnold ",
+      "jersey_number": 27,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671665561,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 32155,
+      "team_id": 510,
+      "position_id": 26,
+      "formation_field": "3:1",
+      "type_id": 11,
+      "formation_position": 6,
+      "player_name": "Yannick Gerhardt",
+      "jersey_number": 31,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685822,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 191367,
+      "team_id": 510,
+      "position_id": 26,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Mattias Svanberg",
+      "jersey_number": 32,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685823,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 37687354,
+      "team_id": 510,
+      "position_id": 25,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Till Neininger",
+      "jersey_number": 34,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685824,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 37707246,
+      "team_id": 510,
+      "position_id": 26,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Pharell Hensel",
+      "jersey_number": 37,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685593,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 37259654,
+      "team_id": 510,
+      "position_id": 26,
+      "formation_field": "4:3",
+      "type_id": 11,
+      "formation_position": 10,
+      "player_name": "Patrick Wimmer",
+      "jersey_number": 39,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685825,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 37650929,
+      "team_id": 510,
+      "position_id": 25,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Jan Bürger",
+      "jersey_number": 41,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685826,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 37732552,
+      "team_id": 510,
+      "position_id": 27,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Bruno Katz",
+      "jersey_number": 42,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671665541,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 83795,
+      "team_id": 1079,
+      "position_id": 24,
+      "formation_field": "1:1",
+      "type_id": 11,
+      "formation_position": 1,
+      "player_name": "Frederik Rönnow",
+      "jersey_number": 1,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671665542,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 540203,
+      "team_id": 1079,
+      "position_id": 25,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Diogo Leite",
+      "jersey_number": 4,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671665543,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 26860,
+      "team_id": 1079,
+      "position_id": 25,
+      "formation_field": "2:4",
+      "type_id": 11,
+      "formation_position": 3,
+      "player_name": "Danilho Doekhi",
+      "jersey_number": 5,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671665544,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 37581984,
+      "team_id": 1079,
+      "position_id": 26,
+      "formation_field": "3:2",
+      "type_id": 11,
+      "formation_position": 8,
+      "player_name": "Aljoscha Kemlein ",
+      "jersey_number": 6,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685576,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 6286,
+      "team_id": 1079,
+      "position_id": 27,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Oliver Burke",
+      "jersey_number": 7,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685577,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 37706595,
+      "team_id": 1079,
+      "position_id": 27,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Livan Burcu",
+      "jersey_number": 9,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671665546,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 37645082,
+      "team_id": 1079,
+      "position_id": 27,
+      "formation_field": "4:1",
+      "type_id": 11,
+      "formation_position": 11,
+      "player_name": "Ilyas Ansah",
+      "jersey_number": 10,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685453,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 11353231,
+      "team_id": 1079,
+      "position_id": 27,
+      "formation_field": "4:2",
+      "type_id": 11,
+      "formation_position": 10,
+      "player_name": "Woo-yeong Jeong",
+      "jersey_number": 11,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685578,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 115485,
+      "team_id": 1079,
+      "position_id": 26,
+      "formation_field": "3:1",
+      "type_id": 11,
+      "formation_position": 9,
+      "player_name": "András Schäfer",
+      "jersey_number": 13,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671665548,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 37536352,
+      "team_id": 1079,
+      "position_id": 25,
+      "formation_field": "2:3",
+      "type_id": 11,
+      "formation_position": 4,
+      "player_name": "Leopold Querfeld",
+      "jersey_number": 14,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671676869,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 37558983,
+      "team_id": 1079,
+      "position_id": 25,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Tom Rothe",
+      "jersey_number": 15,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685579,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 74000,
+      "team_id": 1079,
+      "position_id": 25,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Josip Juranovic",
+      "jersey_number": 18,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671676868,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 32568,
+      "team_id": 1079,
+      "position_id": 26,
+      "formation_field": "3:3",
+      "type_id": 11,
+      "formation_position": 7,
+      "player_name": "Janik Haberer",
+      "jersey_number": 19,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685580,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 35117,
+      "team_id": 1079,
+      "position_id": 26,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Tim Skarke",
+      "jersey_number": 21,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685581,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 24838013,
+      "team_id": 1079,
+      "position_id": 27,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Andrej Ilic",
+      "jersey_number": 23,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671665549,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 34668,
+      "team_id": 1079,
+      "position_id": 25,
+      "formation_field": "2:5",
+      "type_id": 11,
+      "formation_position": 2,
+      "player_name": "Christopher Trimmel ",
+      "jersey_number": 28,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685583,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 47555,
+      "team_id": 1079,
+      "position_id": 24,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Matheo Raab",
+      "jersey_number": 31,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685584,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 82032,
+      "team_id": 1079,
+      "position_id": 26,
+      "formation_field": null,
+      "type_id": 12,
+      "formation_position": null,
+      "player_name": "Alex Král",
+      "jersey_number": 33,
+      "type": {
+        "id": 12,
+        "name": "Bench",
+        "code": "bench",
+        "developer_name": "BENCH",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685732,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 540548,
+      "team_id": 1079,
+      "position_id": 25,
+      "formation_field": "2:2",
+      "type_id": 11,
+      "formation_position": 5,
+      "player_name": "Stanley Nsoki",
+      "jersey_number": 34,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 14671685585,
+      "sport_id": 1,
+      "fixture_id": 19433591,
+      "player_id": 1525233,
+      "team_id": 1079,
+      "position_id": 25,
+      "formation_field": "2:1",
+      "type_id": 11,
+      "formation_position": 6,
+      "player_name": "Derrick Köhn",
+      "jersey_number": 39,
+      "type": {
+        "id": 11,
+        "name": "Lineup",
+        "code": "lineup",
+        "developer_name": "LINEUP",
+        "model_type": "lineup",
+        "stat_group": null
+      }
+    }
+  ],
+  "events": [
+    {
+      "id": 152294674,
+      "fixture_id": 19433591,
+      "period_id": 6395259,
+      "participant_id": 510,
+      "type_id": 14,
+      "section": "event",
+      "player_id": 37259654,
+      "related_player_id": 37430769,
+      "player_name": "Patrick Wimmer",
+      "related_player_name": "Mohamed Amoura",
+      "result": "1-0",
+      "info": "Right foot shot",
+      "addition": "1st Goal",
+      "minute": 10,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": 1522,
+      "detailed_period_id": 6395259,
+      "rescinded": null,
+      "sort_order": 1,
+      "type": {
+        "id": 14,
+        "name": "Goal",
+        "code": "goal",
+        "developer_name": "GOAL",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": {
+        "id": 1522,
+        "name": "Right foot shot",
+        "code": "right-foot-shot",
+        "developer_name": "RIGHT_FOOT_SHOT",
+        "model_type": "sub_event",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 152295022,
+      "fixture_id": 19433591,
+      "period_id": 6395259,
+      "participant_id": 510,
+      "type_id": 19,
+      "section": "event",
+      "player_id": 37591826,
+      "related_player_id": null,
+      "player_name": "Saël Kumbedi",
+      "related_player_name": null,
+      "result": null,
+      "info": "Foul",
+      "addition": "1st Yellowcard",
+      "minute": 22,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": null,
+      "detailed_period_id": 6395259,
+      "rescinded": false,
+      "sort_order": 1,
+      "type": {
+        "id": 19,
+        "name": "Yellowcard",
+        "code": "yellowcard",
+        "developer_name": "YELLOWCARD",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": null
+    },
+    {
+      "id": 152295207,
+      "fixture_id": 19433591,
+      "period_id": 6395259,
+      "participant_id": 510,
+      "type_id": 14,
+      "section": "event",
+      "player_id": 37430769,
+      "related_player_id": 37591826,
+      "player_name": "Mohamed Amoura",
+      "related_player_name": "Saël Kumbedi",
+      "result": "2-0",
+      "info": "Right foot shot",
+      "addition": "2nd Goal",
+      "minute": 30,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": 1522,
+      "detailed_period_id": 6395259,
+      "rescinded": null,
+      "sort_order": 2,
+      "type": {
+        "id": 14,
+        "name": "Goal",
+        "code": "goal",
+        "developer_name": "GOAL",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": {
+        "id": 1522,
+        "name": "Right foot shot",
+        "code": "right-foot-shot",
+        "developer_name": "RIGHT_FOOT_SHOT",
+        "model_type": "sub_event",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 152295861,
+      "fixture_id": 19433591,
+      "period_id": 6395259,
+      "participant_id": 510,
+      "type_id": 19,
+      "section": "event",
+      "player_id": 992,
+      "related_player_id": null,
+      "player_name": "Christian Eriksen",
+      "related_player_name": null,
+      "result": null,
+      "info": "Foul",
+      "addition": "2nd Yellowcard",
+      "minute": 45,
+      "extra_minute": 2,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": null,
+      "detailed_period_id": 6395259,
+      "rescinded": false,
+      "sort_order": 2,
+      "type": {
+        "id": 19,
+        "name": "Yellowcard",
+        "code": "yellowcard",
+        "developer_name": "YELLOWCARD",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": null
+    },
+    {
+      "id": 152296538,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 510,
+      "type_id": 18,
+      "section": "event",
+      "player_id": 37650929,
+      "related_player_id": 37591826,
+      "player_name": "Jan Bürger",
+      "related_player_name": "Saël Kumbedi",
+      "result": null,
+      "info": null,
+      "addition": "1st Substitution",
+      "minute": 46,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": null,
+      "detailed_period_id": 6395682,
+      "rescinded": null,
+      "sort_order": 1,
+      "type": {
+        "id": 18,
+        "name": "Substitution",
+        "code": "substitution",
+        "developer_name": "SUBSTITUTION",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": null
+    },
+    {
+      "id": 152297102,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 1079,
+      "type_id": 18,
+      "section": "event",
+      "player_id": 24838013,
+      "related_player_id": 115485,
+      "player_name": "Andrej Ilic",
+      "related_player_name": "András Schäfer",
+      "result": null,
+      "info": null,
+      "addition": "3rd Substitution",
+      "minute": 57,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": null,
+      "detailed_period_id": 6395682,
+      "rescinded": null,
+      "sort_order": 3,
+      "type": {
+        "id": 18,
+        "name": "Substitution",
+        "code": "substitution",
+        "developer_name": "SUBSTITUTION",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": null
+    },
+    {
+      "id": 152297068,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 1079,
+      "type_id": 18,
+      "section": "event",
+      "player_id": 6286,
+      "related_player_id": 11353231,
+      "player_name": "Oliver Burke",
+      "related_player_name": "Woo-yeong Jeong",
+      "result": null,
+      "info": null,
+      "addition": "2nd Substitution",
+      "minute": 56,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": null,
+      "detailed_period_id": 6395682,
+      "rescinded": null,
+      "sort_order": 2,
+      "type": {
+        "id": 18,
+        "name": "Substitution",
+        "code": "substitution",
+        "developer_name": "SUBSTITUTION",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": null
+    },
+    {
+      "id": 152298227,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 510,
+      "type_id": 19,
+      "section": "event",
+      "player_id": 37328010,
+      "related_player_id": null,
+      "player_name": "Konstantinos Koulierakis",
+      "related_player_name": null,
+      "result": null,
+      "info": "Off the ball foul",
+      "addition": "5th Yellowcard",
+      "minute": 89,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": null,
+      "detailed_period_id": 6395682,
+      "rescinded": false,
+      "sort_order": 5,
+      "type": {
+        "id": 19,
+        "name": "Yellowcard",
+        "code": "yellowcard",
+        "developer_name": "YELLOWCARD",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": null
+    },
+    {
+      "id": 152297171,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 510,
+      "type_id": 14,
+      "section": "event",
+      "player_id": 74116,
+      "related_player_id": 992,
+      "player_name": "Lovro Majer",
+      "related_player_name": "Christian Eriksen",
+      "result": "3-0",
+      "info": "Right foot shot",
+      "addition": "3rd Goal",
+      "minute": 59,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": 1522,
+      "detailed_period_id": 6395682,
+      "rescinded": null,
+      "sort_order": 3,
+      "type": {
+        "id": 14,
+        "name": "Goal",
+        "code": "goal",
+        "developer_name": "GOAL",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": {
+        "id": 1522,
+        "name": "Right foot shot",
+        "code": "right-foot-shot",
+        "developer_name": "RIGHT_FOOT_SHOT",
+        "model_type": "sub_event",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 152297301,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 510,
+      "type_id": 10,
+      "section": "event",
+      "player_id": 37430769,
+      "related_player_id": null,
+      "player_name": "Mohamed Amoura",
+      "related_player_name": null,
+      "result": null,
+      "info": null,
+      "addition": "Goal disallowed",
+      "minute": 64,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": 1512,
+      "detailed_period_id": 6395682,
+      "rescinded": null,
+      "sort_order": 1,
+      "type": {
+        "id": 10,
+        "name": "VAR",
+        "code": "VAR",
+        "developer_name": "VAR",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": {
+        "id": 1512,
+        "name": "Goal Disallowed",
+        "code": "goal-disallowed",
+        "developer_name": "GOAL_DISALLOWED",
+        "model_type": "sub_event",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 152297701,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 1079,
+      "type_id": 18,
+      "section": "event",
+      "player_id": 37706595,
+      "related_player_id": 540548,
+      "player_name": "Livan Burcu",
+      "related_player_name": "Stanley Nsoki",
+      "result": null,
+      "info": null,
+      "addition": "8th Substitution",
+      "minute": 78,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": null,
+      "detailed_period_id": 6395682,
+      "rescinded": null,
+      "sort_order": 8,
+      "type": {
+        "id": 18,
+        "name": "Substitution",
+        "code": "substitution",
+        "developer_name": "SUBSTITUTION",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": null
+    },
+    {
+      "id": 152297357,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 510,
+      "type_id": 18,
+      "section": "event",
+      "player_id": 191367,
+      "related_player_id": 37259654,
+      "player_name": "Mattias Svanberg",
+      "related_player_name": "Patrick Wimmer",
+      "result": null,
+      "info": null,
+      "addition": "4th Substitution",
+      "minute": 65,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": null,
+      "detailed_period_id": 6395682,
+      "rescinded": null,
+      "sort_order": 4,
+      "type": {
+        "id": 18,
+        "name": "Substitution",
+        "code": "substitution",
+        "developer_name": "SUBSTITUTION",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": null
+    },
+    {
+      "id": 152297421,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 1079,
+      "type_id": 14,
+      "section": "event",
+      "player_id": 540548,
+      "related_player_id": null,
+      "player_name": "Stanley Nsoki",
+      "related_player_name": null,
+      "result": "3-1",
+      "info": "Left foot shot",
+      "addition": "4th Goal",
+      "minute": 68,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": 1521,
+      "detailed_period_id": 6395682,
+      "rescinded": null,
+      "sort_order": 4,
+      "type": {
+        "id": 14,
+        "name": "Goal",
+        "code": "goal",
+        "developer_name": "GOAL",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": {
+        "id": 1521,
+        "name": "Left foot shot",
+        "code": "left-foot-shot",
+        "developer_name": "LEFT_FOOT_SHOT",
+        "model_type": "sub_event",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 152297472,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 1079,
+      "type_id": 18,
+      "section": "event",
+      "player_id": 37558983,
+      "related_player_id": 1525233,
+      "player_name": "Tom Rothe",
+      "related_player_name": "Derrick Köhn",
+      "result": null,
+      "info": null,
+      "addition": "6th Substitution",
+      "minute": 70,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": null,
+      "detailed_period_id": 6395682,
+      "rescinded": null,
+      "sort_order": 6,
+      "type": {
+        "id": 18,
+        "name": "Substitution",
+        "code": "substitution",
+        "developer_name": "SUBSTITUTION",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": null
+    },
+    {
+      "id": 152297471,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 1079,
+      "type_id": 18,
+      "section": "event",
+      "player_id": 82032,
+      "related_player_id": 34668,
+      "player_name": "Alex Král",
+      "related_player_name": "Christopher Trimmel ",
+      "result": null,
+      "info": null,
+      "addition": "5th Substitution",
+      "minute": 70,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": null,
+      "detailed_period_id": 6395682,
+      "rescinded": null,
+      "sort_order": 5,
+      "type": {
+        "id": 18,
+        "name": "Substitution",
+        "code": "substitution",
+        "developer_name": "SUBSTITUTION",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": null
+    },
+    {
+      "id": 152297542,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 510,
+      "type_id": 18,
+      "section": "event",
+      "player_id": 37590611,
+      "related_player_id": 37430769,
+      "player_name": "Dzenan Pejcinovic",
+      "related_player_name": "Mohamed Amoura",
+      "result": null,
+      "info": null,
+      "addition": "7th Substitution",
+      "minute": 73,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": null,
+      "detailed_period_id": 6395682,
+      "rescinded": null,
+      "sort_order": 7,
+      "type": {
+        "id": 18,
+        "name": "Substitution",
+        "code": "substitution",
+        "developer_name": "SUBSTITUTION",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": null
+    },
+    {
+      "id": 152297551,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 510,
+      "type_id": 19,
+      "section": "event",
+      "player_id": 74116,
+      "related_player_id": null,
+      "player_name": "Lovro Majer",
+      "related_player_name": null,
+      "result": null,
+      "info": "Foul",
+      "addition": "3rd Yellowcard",
+      "minute": 74,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": null,
+      "detailed_period_id": 6395682,
+      "rescinded": false,
+      "sort_order": 3,
+      "type": {
+        "id": 19,
+        "name": "Yellowcard",
+        "code": "yellowcard",
+        "developer_name": "YELLOWCARD",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": null
+    },
+    {
+      "id": 152298035,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 1079,
+      "type_id": 10,
+      "section": "event",
+      "player_id": 26860,
+      "related_player_id": null,
+      "player_name": "Danilho Doekhi",
+      "related_player_name": null,
+      "result": null,
+      "info": null,
+      "addition": "Penalty cancelled",
+      "minute": 83,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": 9699,
+      "detailed_period_id": 6395682,
+      "rescinded": null,
+      "sort_order": 2,
+      "type": {
+        "id": 10,
+        "name": "VAR",
+        "code": "VAR",
+        "developer_name": "VAR",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": {
+        "id": 9699,
+        "name": "Penalty cancelled",
+        "code": "penalty-cancelled",
+        "developer_name": "PENALTY_CANCELLED",
+        "model_type": "sub_event",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 152297736,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 1079,
+      "type_id": 19,
+      "section": "event",
+      "player_id": 6286,
+      "related_player_id": null,
+      "player_name": "Oliver Burke",
+      "related_player_name": null,
+      "result": null,
+      "info": "Argument",
+      "addition": "4th Yellowcard",
+      "minute": 79,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": null,
+      "detailed_period_id": 6395682,
+      "rescinded": false,
+      "sort_order": 4,
+      "type": {
+        "id": 19,
+        "name": "Yellowcard",
+        "code": "yellowcard",
+        "developer_name": "YELLOWCARD",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": null
+    },
+    {
+      "id": 152298204,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 1079,
+      "type_id": 10,
+      "section": "event",
+      "player_id": 24838013,
+      "related_player_id": null,
+      "player_name": "Andrej Ilic",
+      "related_player_name": null,
+      "result": null,
+      "info": null,
+      "addition": "Penalty awarded",
+      "minute": 89,
+      "extra_minute": null,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": 9698,
+      "detailed_period_id": 6395682,
+      "rescinded": null,
+      "sort_order": 3,
+      "type": {
+        "id": 10,
+        "name": "VAR",
+        "code": "VAR",
+        "developer_name": "VAR",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": {
+        "id": 9698,
+        "name": "Penalty confirmed",
+        "code": "penalty-confirmed",
+        "developer_name": "PENALTY_CONFIRMED",
+        "model_type": "sub_event",
+        "stat_group": null
+      }
+    },
+    {
+      "id": 152298344,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 510,
+      "type_id": 18,
+      "section": "event",
+      "player_id": 180894,
+      "related_player_id": 992,
+      "player_name": "Denis Vavro",
+      "related_player_name": "Christian Eriksen",
+      "result": null,
+      "info": null,
+      "addition": "9th Substitution",
+      "minute": 90,
+      "extra_minute": 1,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": null,
+      "detailed_period_id": 6395682,
+      "rescinded": null,
+      "sort_order": 9,
+      "type": {
+        "id": 18,
+        "name": "Substitution",
+        "code": "substitution",
+        "developer_name": "SUBSTITUTION",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": null
+    },
+    {
+      "id": 152298345,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 510,
+      "type_id": 18,
+      "section": "event",
+      "player_id": 37707246,
+      "related_player_id": 74116,
+      "player_name": "Pharell Hensel",
+      "related_player_name": "Lovro Majer",
+      "result": null,
+      "info": null,
+      "addition": "10th Substitution",
+      "minute": 90,
+      "extra_minute": 2,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": null,
+      "detailed_period_id": 6395682,
+      "rescinded": null,
+      "sort_order": 10,
+      "type": {
+        "id": 18,
+        "name": "Substitution",
+        "code": "substitution",
+        "developer_name": "SUBSTITUTION",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": null
+    },
+    {
+      "id": 152298254,
+      "fixture_id": 19433591,
+      "period_id": 6395682,
+      "participant_id": 1079,
+      "type_id": 17,
+      "section": "event",
+      "player_id": 37536352,
+      "related_player_id": 1494392,
+      "player_name": "Leopold Querfeld",
+      "related_player_name": "Kamil Grabara",
+      "result": null,
+      "info": null,
+      "addition": "GoalkeeperSave",
+      "minute": 90,
+      "extra_minute": 1,
+      "injured": null,
+      "on_bench": false,
+      "coach_id": null,
+      "sub_type_id": null,
+      "detailed_period_id": 6395682,
+      "rescinded": null,
+      "sort_order": 1,
+      "type": {
+        "id": 17,
+        "name": "Missed Penalty",
+        "code": "missed_penalty",
+        "developer_name": "MISSED_PENALTY",
+        "model_type": "event",
+        "stat_group": null
+      },
+      "subtype": null
+    }
+  ],
+  "statistics": [
+    {
+      "id": 653378411,
+      "fixture_id": 19433591,
+      "type_id": 79,
+      "participant_id": 510,
+      "data": {
+        "value": 3
+      },
+      "location": "home",
+      "type": {
+        "id": 79,
+        "name": "Assists",
+        "code": "assists",
+        "developer_name": "ASSISTS",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653323135,
+      "fixture_id": 19433591,
+      "type_id": 45,
+      "participant_id": 510,
+      "data": {
+        "value": 43
+      },
+      "location": "home",
+      "type": {
+        "id": 45,
+        "name": "Ball Possession %",
+        "code": "ball-possession",
+        "developer_name": "BALL_POSSESSION",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653335775,
+      "fixture_id": 19433591,
+      "type_id": 81,
+      "participant_id": 510,
+      "data": {
+        "value": 279
+      },
+      "location": "home",
+      "type": {
+        "id": 81,
+        "name": "Successful Passes",
+        "code": "successful-passes",
+        "developer_name": "SUCCESSFUL_PASSES",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653335776,
+      "fixture_id": 19433591,
+      "type_id": 81,
+      "participant_id": 1079,
+      "data": {
+        "value": 363
+      },
+      "location": "away",
+      "type": {
+        "id": 81,
+        "name": "Successful Passes",
+        "code": "successful-passes",
+        "developer_name": "SUCCESSFUL_PASSES",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653338743,
+      "fixture_id": 19433591,
+      "type_id": 53,
+      "participant_id": 510,
+      "data": {
+        "value": 12
+      },
+      "location": "home",
+      "type": {
+        "id": 53,
+        "name": "Goal Kicks",
+        "code": "goals-kicks",
+        "developer_name": "GOAL_KICKS",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653338747,
+      "fixture_id": 19433591,
+      "type_id": 50,
+      "participant_id": 510,
+      "data": {
+        "value": 1
+      },
+      "location": "home",
+      "type": {
+        "id": 50,
+        "name": "Shots Outsidebox",
+        "code": "shots-outsidebox",
+        "developer_name": "SHOTS_OUTSIDEBOX",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653338748,
+      "fixture_id": 19433591,
+      "type_id": 50,
+      "participant_id": 1079,
+      "data": {
+        "value": 4
+      },
+      "location": "away",
+      "type": {
+        "id": 50,
+        "name": "Shots Outsidebox",
+        "code": "shots-outsidebox",
+        "developer_name": "SHOTS_OUTSIDEBOX",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653335780,
+      "fixture_id": 19433591,
+      "type_id": 62,
+      "participant_id": 1079,
+      "data": {
+        "value": 74
+      },
+      "location": "away",
+      "type": {
+        "id": 62,
+        "name": "Long Passes",
+        "code": "long-passes",
+        "developer_name": "LONG_PASSES",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653334681,
+      "fixture_id": 19433591,
+      "type_id": 82,
+      "participant_id": 510,
+      "data": {
+        "value": 74
+      },
+      "location": "home",
+      "type": {
+        "id": 82,
+        "name": "Successful Passes Percentage",
+        "code": "successful-passes-percentage",
+        "developer_name": "SUCCESSFUL_PASSES_PERCENTAGE",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653334682,
+      "fixture_id": 19433591,
+      "type_id": 82,
+      "participant_id": 1079,
+      "data": {
+        "value": 79
+      },
+      "location": "away",
+      "type": {
+        "id": 82,
+        "name": "Successful Passes Percentage",
+        "code": "successful-passes-percentage",
+        "developer_name": "SUCCESSFUL_PASSES_PERCENTAGE",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653341159,
+      "fixture_id": 19433591,
+      "type_id": 60,
+      "participant_id": 510,
+      "data": {
+        "value": 18
+      },
+      "location": "home",
+      "type": {
+        "id": 60,
+        "name": "Throwins",
+        "code": "throwins",
+        "developer_name": "THROWINS",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653340982,
+      "fixture_id": 19433591,
+      "type_id": 65,
+      "participant_id": 1079,
+      "data": {
+        "value": 29
+      },
+      "location": "away",
+      "type": {
+        "id": 65,
+        "name": "Successful Headers",
+        "code": "successful-headers",
+        "developer_name": "SUCCESSFUL_HEADERS",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653335781,
+      "fixture_id": 19433591,
+      "type_id": 106,
+      "participant_id": 510,
+      "data": {
+        "value": 44
+      },
+      "location": "home",
+      "type": {
+        "id": 106,
+        "name": "Duels Won",
+        "code": "duels-won",
+        "developer_name": "DUELS_WON",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653335785,
+      "fixture_id": 19433591,
+      "type_id": 1605,
+      "participant_id": 510,
+      "data": {
+        "value": 25
+      },
+      "location": "home",
+      "type": {
+        "id": 1605,
+        "name": "Successful Dribbles Percentage",
+        "code": "successful-dribbles-percentage",
+        "developer_name": "SUCCESSFUL_DRIBBLES_PERCENTAGE",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653335786,
+      "fixture_id": 19433591,
+      "type_id": 1605,
+      "participant_id": 1079,
+      "data": {
+        "value": 54
+      },
+      "location": "away",
+      "type": {
+        "id": 1605,
+        "name": "Successful Dribbles Percentage",
+        "code": "successful-dribbles-percentage",
+        "developer_name": "SUCCESSFUL_DRIBBLES_PERCENTAGE",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653335778,
+      "fixture_id": 19433591,
+      "type_id": 80,
+      "participant_id": 1079,
+      "data": {
+        "value": 460
+      },
+      "location": "away",
+      "type": {
+        "id": 80,
+        "name": "Passes",
+        "code": "passes",
+        "developer_name": "PASSES",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653335784,
+      "fixture_id": 19433591,
+      "type_id": 27265,
+      "participant_id": 1079,
+      "data": {
+        "value": 47
+      },
+      "location": "away",
+      "type": {
+        "id": 27265,
+        "name": "Successful Long Passes Percentage",
+        "code": "successful-long-passes-percentage",
+        "developer_name": "SUCCESSFUL_LONG_PASSES_PERCENTAGE",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653323136,
+      "fixture_id": 19433591,
+      "type_id": 45,
+      "participant_id": 1079,
+      "data": {
+        "value": 57
+      },
+      "location": "away",
+      "type": {
+        "id": 45,
+        "name": "Ball Possession %",
+        "code": "ball-possession",
+        "developer_name": "BALL_POSSESSION",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653337482,
+      "fixture_id": 19433591,
+      "type_id": 55,
+      "participant_id": 1079,
+      "data": {
+        "value": 12
+      },
+      "location": "away",
+      "type": {
+        "id": 55,
+        "name": "Free Kicks",
+        "code": "free-kicks",
+        "developer_name": "FREE_KICKS",
+        "model_type": "statistic",
+        "stat_group": "defensive"
+      }
+    },
+    {
+      "id": 653337483,
+      "fixture_id": 19433591,
+      "type_id": 56,
+      "participant_id": 510,
+      "data": {
+        "value": 13
+      },
+      "location": "home",
+      "type": {
+        "id": 56,
+        "name": "Fouls",
+        "code": "fouls",
+        "developer_name": "FOULS",
+        "model_type": "statistic",
+        "stat_group": "defensive"
+      }
+    },
+    {
+      "id": 653338742,
+      "fixture_id": 19433591,
+      "type_id": 41,
+      "participant_id": 1079,
+      "data": {
+        "value": 12
+      },
+      "location": "away",
+      "type": {
+        "id": 41,
+        "name": "Shots Off Target",
+        "code": "shots-off-target",
+        "developer_name": "SHOTS_OFF_TARGET",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653338746,
+      "fixture_id": 19433591,
+      "type_id": 42,
+      "participant_id": 1079,
+      "data": {
+        "value": 21
+      },
+      "location": "away",
+      "type": {
+        "id": 42,
+        "name": "Shots Total",
+        "code": "shots-total",
+        "developer_name": "SHOTS_TOTAL",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653338741,
+      "fixture_id": 19433591,
+      "type_id": 41,
+      "participant_id": 510,
+      "data": {
+        "value": 0
+      },
+      "location": "home",
+      "type": {
+        "id": 41,
+        "name": "Shots Off Target",
+        "code": "shots-off-target",
+        "developer_name": "SHOTS_OFF_TARGET",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653338744,
+      "fixture_id": 19433591,
+      "type_id": 53,
+      "participant_id": 1079,
+      "data": {
+        "value": 2
+      },
+      "location": "away",
+      "type": {
+        "id": 53,
+        "name": "Goal Kicks",
+        "code": "goals-kicks",
+        "developer_name": "GOAL_KICKS",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653338745,
+      "fixture_id": 19433591,
+      "type_id": 42,
+      "participant_id": 510,
+      "data": {
+        "value": 4
+      },
+      "location": "home",
+      "type": {
+        "id": 42,
+        "name": "Shots Total",
+        "code": "shots-total",
+        "developer_name": "SHOTS_TOTAL",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653335779,
+      "fixture_id": 19433591,
+      "type_id": 62,
+      "participant_id": 510,
+      "data": {
+        "value": 67
+      },
+      "location": "home",
+      "type": {
+        "id": 62,
+        "name": "Long Passes",
+        "code": "long-passes",
+        "developer_name": "LONG_PASSES",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653340979,
+      "fixture_id": 19433591,
+      "type_id": 44,
+      "participant_id": 510,
+      "data": {
+        "value": 14
+      },
+      "location": "home",
+      "type": {
+        "id": 44,
+        "name": "Dangerous Attacks",
+        "code": "dangerous-attacks",
+        "developer_name": "DANGEROUS_ATTACKS",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653340981,
+      "fixture_id": 19433591,
+      "type_id": 65,
+      "participant_id": 510,
+      "data": {
+        "value": 19
+      },
+      "location": "home",
+      "type": {
+        "id": 65,
+        "name": "Successful Headers",
+        "code": "successful-headers",
+        "developer_name": "SUCCESSFUL_HEADERS",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653335777,
+      "fixture_id": 19433591,
+      "type_id": 80,
+      "participant_id": 510,
+      "data": {
+        "value": 376
+      },
+      "location": "home",
+      "type": {
+        "id": 80,
+        "name": "Passes",
+        "code": "passes",
+        "developer_name": "PASSES",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653340977,
+      "fixture_id": 19433591,
+      "type_id": 43,
+      "participant_id": 510,
+      "data": {
+        "value": 79
+      },
+      "location": "home",
+      "type": {
+        "id": 43,
+        "name": "Attacks",
+        "code": "attacks",
+        "developer_name": "ATTACKS",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653341868,
+      "fixture_id": 19433591,
+      "type_id": 27264,
+      "participant_id": 1079,
+      "data": {
+        "value": 35
+      },
+      "location": "away",
+      "type": {
+        "id": 27264,
+        "name": "Successful Long Passes",
+        "code": "successful-long-passes",
+        "developer_name": "SUCCESSFUL_LONG_PASSES",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653346127,
+      "fixture_id": 19433591,
+      "type_id": 117,
+      "participant_id": 510,
+      "data": {
+        "value": 4
+      },
+      "location": "home",
+      "type": {
+        "id": 117,
+        "name": "Key Passes",
+        "code": "key-passes",
+        "developer_name": "KEY_PASSES",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653357364,
+      "fixture_id": 19433591,
+      "type_id": 100,
+      "participant_id": 1079,
+      "data": {
+        "value": 8
+      },
+      "location": "away",
+      "type": {
+        "id": 100,
+        "name": "Interceptions",
+        "code": "interceptions",
+        "developer_name": "INTERCEPTIONS",
+        "model_type": "statistic",
+        "stat_group": "defensive"
+      }
+    },
+    {
+      "id": 653361257,
+      "fixture_id": 19433591,
+      "type_id": 78,
+      "participant_id": 510,
+      "data": {
+        "value": 14
+      },
+      "location": "home",
+      "type": {
+        "id": 78,
+        "name": "Tackles",
+        "code": "tackles",
+        "developer_name": "TACKLES",
+        "model_type": "statistic",
+        "stat_group": "defensive"
+      }
+    },
+    {
+      "id": 653340980,
+      "fixture_id": 19433591,
+      "type_id": 44,
+      "participant_id": 1079,
+      "data": {
+        "value": 78
+      },
+      "location": "away",
+      "type": {
+        "id": 44,
+        "name": "Dangerous Attacks",
+        "code": "dangerous-attacks",
+        "developer_name": "DANGEROUS_ATTACKS",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653361260,
+      "fixture_id": 19433591,
+      "type_id": 98,
+      "participant_id": 1079,
+      "data": {
+        "value": 44
+      },
+      "location": "away",
+      "type": {
+        "id": 98,
+        "name": "Total Crosses",
+        "code": "total-crosses",
+        "developer_name": "TOTAL_CROSSES",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653341867,
+      "fixture_id": 19433591,
+      "type_id": 27264,
+      "participant_id": 510,
+      "data": {
+        "value": 24
+      },
+      "location": "home",
+      "type": {
+        "id": 27264,
+        "name": "Successful Long Passes",
+        "code": "successful-long-passes",
+        "developer_name": "SUCCESSFUL_LONG_PASSES",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653361259,
+      "fixture_id": 19433591,
+      "type_id": 98,
+      "participant_id": 510,
+      "data": {
+        "value": 3
+      },
+      "location": "home",
+      "type": {
+        "id": 98,
+        "name": "Total Crosses",
+        "code": "total-crosses",
+        "developer_name": "TOTAL_CROSSES",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653357363,
+      "fixture_id": 19433591,
+      "type_id": 100,
+      "participant_id": 510,
+      "data": {
+        "value": 7
+      },
+      "location": "home",
+      "type": {
+        "id": 100,
+        "name": "Interceptions",
+        "code": "interceptions",
+        "developer_name": "INTERCEPTIONS",
+        "model_type": "statistic",
+        "stat_group": "defensive"
+      }
+    },
+    {
+      "id": 653361262,
+      "fixture_id": 19433591,
+      "type_id": 108,
+      "participant_id": 1079,
+      "data": {
+        "value": 13
+      },
+      "location": "away",
+      "type": {
+        "id": 108,
+        "name": "Dribble Attempts",
+        "code": "dribble-attempts",
+        "developer_name": "DRIBBLED_ATTEMPTS",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653361258,
+      "fixture_id": 19433591,
+      "type_id": 78,
+      "participant_id": 1079,
+      "data": {
+        "value": 13
+      },
+      "location": "away",
+      "type": {
+        "id": 78,
+        "name": "Tackles",
+        "code": "tackles",
+        "developer_name": "TACKLES",
+        "model_type": "statistic",
+        "stat_group": "defensive"
+      }
+    },
+    {
+      "id": 653375034,
+      "fixture_id": 19433591,
+      "type_id": 52,
+      "participant_id": 1079,
+      "data": {
+        "value": 1
+      },
+      "location": "away",
+      "type": {
+        "id": 52,
+        "name": "Goals",
+        "code": "goals",
+        "developer_name": "GOALS",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653378412,
+      "fixture_id": 19433591,
+      "type_id": 79,
+      "participant_id": 1079,
+      "data": {
+        "value": 0
+      },
+      "location": "away",
+      "type": {
+        "id": 79,
+        "name": "Assists",
+        "code": "assists",
+        "developer_name": "ASSISTS",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653340978,
+      "fixture_id": 19433591,
+      "type_id": 43,
+      "participant_id": 1079,
+      "data": {
+        "value": 116
+      },
+      "location": "away",
+      "type": {
+        "id": 43,
+        "name": "Attacks",
+        "code": "attacks",
+        "developer_name": "ATTACKS",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653411168,
+      "fixture_id": 19433591,
+      "type_id": 46,
+      "participant_id": 1079,
+      "data": {
+        "value": 84
+      },
+      "location": "away",
+      "type": {
+        "id": 46,
+        "name": "Ball Safe",
+        "code": "ball-safe",
+        "developer_name": "BALL_SAFE",
+        "model_type": "statistic",
+        "stat_group": "defensive"
+      }
+    },
+    {
+      "id": 653411170,
+      "fixture_id": 19433591,
+      "type_id": 54,
+      "participant_id": 1079,
+      "data": {
+        "value": 13
+      },
+      "location": "away",
+      "type": {
+        "id": 54,
+        "name": "Goal Attempts",
+        "code": "goal-attempts",
+        "developer_name": "GOAL_ATTEMPTS",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653337484,
+      "fixture_id": 19433591,
+      "type_id": 56,
+      "participant_id": 1079,
+      "data": {
+        "value": 10
+      },
+      "location": "away",
+      "type": {
+        "id": 56,
+        "name": "Fouls",
+        "code": "fouls",
+        "developer_name": "FOULS",
+        "model_type": "statistic",
+        "stat_group": "defensive"
+      }
+    },
+    {
+      "id": 653335782,
+      "fixture_id": 19433591,
+      "type_id": 106,
+      "participant_id": 1079,
+      "data": {
+        "value": 61
+      },
+      "location": "away",
+      "type": {
+        "id": 106,
+        "name": "Duels Won",
+        "code": "duels-won",
+        "developer_name": "DUELS_WON",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653346128,
+      "fixture_id": 19433591,
+      "type_id": 117,
+      "participant_id": 1079,
+      "data": {
+        "value": 14
+      },
+      "location": "away",
+      "type": {
+        "id": 117,
+        "name": "Key Passes",
+        "code": "key-passes",
+        "developer_name": "KEY_PASSES",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653431304,
+      "fixture_id": 19433591,
+      "type_id": 109,
+      "participant_id": 1079,
+      "data": {
+        "value": 7
+      },
+      "location": "away",
+      "type": {
+        "id": 109,
+        "name": "Successful Dribbles",
+        "code": "successful-dribbles",
+        "developer_name": "SUCCESSFUL_DRIBBLES",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653337481,
+      "fixture_id": 19433591,
+      "type_id": 55,
+      "participant_id": 510,
+      "data": {
+        "value": 10
+      },
+      "location": "home",
+      "type": {
+        "id": 55,
+        "name": "Free Kicks",
+        "code": "free-kicks",
+        "developer_name": "FREE_KICKS",
+        "model_type": "statistic",
+        "stat_group": "defensive"
+      }
+    },
+    {
+      "id": 653335783,
+      "fixture_id": 19433591,
+      "type_id": 27265,
+      "participant_id": 510,
+      "data": {
+        "value": 36
+      },
+      "location": "home",
+      "type": {
+        "id": 27265,
+        "name": "Successful Long Passes Percentage",
+        "code": "successful-long-passes-percentage",
+        "developer_name": "SUCCESSFUL_LONG_PASSES_PERCENTAGE",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653375033,
+      "fixture_id": 19433591,
+      "type_id": 52,
+      "participant_id": 510,
+      "data": {
+        "value": 3
+      },
+      "location": "home",
+      "type": {
+        "id": 52,
+        "name": "Goals",
+        "code": "goals",
+        "developer_name": "GOALS",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653375031,
+      "fixture_id": 19433591,
+      "type_id": 86,
+      "participant_id": 510,
+      "data": {
+        "value": 3
+      },
+      "location": "home",
+      "type": {
+        "id": 86,
+        "name": "Shots On Target",
+        "code": "shots-on-target",
+        "developer_name": "SHOTS_ON_TARGET",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653447883,
+      "fixture_id": 19433591,
+      "type_id": 99,
+      "participant_id": 510,
+      "data": {
+        "value": 0
+      },
+      "location": "home",
+      "type": {
+        "id": 99,
+        "name": "Accurate Crosses",
+        "code": "accurate-crosses",
+        "developer_name": "ACCURATE_CROSSES",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653447884,
+      "fixture_id": 19433591,
+      "type_id": 99,
+      "participant_id": 1079,
+      "data": {
+        "value": 13
+      },
+      "location": "away",
+      "type": {
+        "id": 99,
+        "name": "Accurate Crosses",
+        "code": "accurate-crosses",
+        "developer_name": "ACCURATE_CROSSES",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653375035,
+      "fixture_id": 19433591,
+      "type_id": 49,
+      "participant_id": 510,
+      "data": {
+        "value": 3
+      },
+      "location": "home",
+      "type": {
+        "id": 49,
+        "name": "Shots Insidebox",
+        "code": "shots-insidebox",
+        "developer_name": "SHOTS_INSIDEBOX",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653453555,
+      "fixture_id": 19433591,
+      "type_id": 581,
+      "participant_id": 510,
+      "data": {
+        "value": 0
+      },
+      "location": "home",
+      "type": {
+        "id": 581,
+        "name": "Big Chances Missed",
+        "code": "big-chances-missed",
+        "developer_name": "BIG_CHANCES_MISSED",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653475174,
+      "fixture_id": 19433591,
+      "type_id": 34,
+      "participant_id": 1079,
+      "data": {
+        "value": 11
+      },
+      "location": "away",
+      "type": {
+        "id": 34,
+        "name": "Corners",
+        "code": "corners",
+        "developer_name": "CORNERS",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653475173,
+      "fixture_id": 19433591,
+      "type_id": 34,
+      "participant_id": 510,
+      "data": {
+        "value": 0
+      },
+      "location": "home",
+      "type": {
+        "id": 34,
+        "name": "Corners",
+        "code": "corners",
+        "developer_name": "CORNERS",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653479691,
+      "fixture_id": 19433591,
+      "type_id": 57,
+      "participant_id": 510,
+      "data": {
+        "value": 5
+      },
+      "location": "home",
+      "type": {
+        "id": 57,
+        "name": "Saves",
+        "code": "saves",
+        "developer_name": "SAVES",
+        "model_type": "statistic",
+        "stat_group": "defensive"
+      }
+    },
+    {
+      "id": 653479692,
+      "fixture_id": 19433591,
+      "type_id": 57,
+      "participant_id": 1079,
+      "data": {
+        "value": 0
+      },
+      "location": "away",
+      "type": {
+        "id": 57,
+        "name": "Saves",
+        "code": "saves",
+        "developer_name": "SAVES",
+        "model_type": "statistic",
+        "stat_group": "defensive"
+      }
+    },
+    {
+      "id": 653481498,
+      "fixture_id": 19433591,
+      "type_id": 64,
+      "participant_id": 1079,
+      "data": {
+        "value": 1
+      },
+      "location": "away",
+      "type": {
+        "id": 64,
+        "name": "Hit Woodwork",
+        "code": "hit-woodwork",
+        "developer_name": "HIT_WOODWORK",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653481497,
+      "fixture_id": 19433591,
+      "type_id": 64,
+      "participant_id": 510,
+      "data": {
+        "value": 0
+      },
+      "location": "home",
+      "type": {
+        "id": 64,
+        "name": "Hit Woodwork",
+        "code": "hit-woodwork",
+        "developer_name": "HIT_WOODWORK",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653375036,
+      "fixture_id": 19433591,
+      "type_id": 49,
+      "participant_id": 1079,
+      "data": {
+        "value": 17
+      },
+      "location": "away",
+      "type": {
+        "id": 49,
+        "name": "Shots Insidebox",
+        "code": "shots-insidebox",
+        "developer_name": "SHOTS_INSIDEBOX",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653375032,
+      "fixture_id": 19433591,
+      "type_id": 86,
+      "participant_id": 1079,
+      "data": {
+        "value": 6
+      },
+      "location": "away",
+      "type": {
+        "id": 86,
+        "name": "Shots On Target",
+        "code": "shots-on-target",
+        "developer_name": "SHOTS_ON_TARGET",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653341160,
+      "fixture_id": 19433591,
+      "type_id": 60,
+      "participant_id": 1079,
+      "data": {
+        "value": 29
+      },
+      "location": "away",
+      "type": {
+        "id": 60,
+        "name": "Throwins",
+        "code": "throwins",
+        "developer_name": "THROWINS",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653412315,
+      "fixture_id": 19433591,
+      "type_id": 84,
+      "participant_id": 510,
+      "data": {
+        "value": 4
+      },
+      "location": "home",
+      "type": {
+        "id": 84,
+        "name": "Yellowcards",
+        "code": "yellowcards",
+        "developer_name": "YELLOWCARDS",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653361261,
+      "fixture_id": 19433591,
+      "type_id": 108,
+      "participant_id": 510,
+      "data": {
+        "value": 8
+      },
+      "location": "home",
+      "type": {
+        "id": 108,
+        "name": "Dribble Attempts",
+        "code": "dribble-attempts",
+        "developer_name": "DRIBBLED_ATTEMPTS",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653605366,
+      "fixture_id": 19433591,
+      "type_id": 59,
+      "participant_id": 1079,
+      "data": {
+        "value": 5
+      },
+      "location": "away",
+      "type": {
+        "id": 59,
+        "name": "Substitutions",
+        "code": "substitutions",
+        "developer_name": "SUBSTITUTIONS",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653605365,
+      "fixture_id": 19433591,
+      "type_id": 59,
+      "participant_id": 510,
+      "data": {
+        "value": 5
+      },
+      "location": "home",
+      "type": {
+        "id": 59,
+        "name": "Substitutions",
+        "code": "substitutions",
+        "developer_name": "SUBSTITUTIONS",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653431303,
+      "fixture_id": 19433591,
+      "type_id": 109,
+      "participant_id": 510,
+      "data": {
+        "value": 2
+      },
+      "location": "home",
+      "type": {
+        "id": 109,
+        "name": "Successful Dribbles",
+        "code": "successful-dribbles",
+        "developer_name": "SUCCESSFUL_DRIBBLES",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653685486,
+      "fixture_id": 19433591,
+      "type_id": 87,
+      "participant_id": 1079,
+      "data": {
+        "value": 1
+      },
+      "location": "away",
+      "type": {
+        "id": 87,
+        "name": "Injuries",
+        "code": "injuries",
+        "developer_name": "INJURIES",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653411169,
+      "fixture_id": 19433591,
+      "type_id": 54,
+      "participant_id": 510,
+      "data": {
+        "value": 3
+      },
+      "location": "home",
+      "type": {
+        "id": 54,
+        "name": "Goal Attempts",
+        "code": "goal-attempts",
+        "developer_name": "GOAL_ATTEMPTS",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653411167,
+      "fixture_id": 19433591,
+      "type_id": 46,
+      "participant_id": 510,
+      "data": {
+        "value": 79
+      },
+      "location": "home",
+      "type": {
+        "id": 46,
+        "name": "Ball Safe",
+        "code": "ball-safe",
+        "developer_name": "BALL_SAFE",
+        "model_type": "statistic",
+        "stat_group": "defensive"
+      }
+    },
+    {
+      "id": 653685483,
+      "fixture_id": 19433591,
+      "type_id": 58,
+      "participant_id": 510,
+      "data": {
+        "value": 1
+      },
+      "location": "home",
+      "type": {
+        "id": 58,
+        "name": "Shots Blocked",
+        "code": "shots-blocked",
+        "developer_name": "SHOTS_BLOCKED",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653685485,
+      "fixture_id": 19433591,
+      "type_id": 87,
+      "participant_id": 510,
+      "data": {
+        "value": 0
+      },
+      "location": "home",
+      "type": {
+        "id": 87,
+        "name": "Injuries",
+        "code": "injuries",
+        "developer_name": "INJURIES",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653685484,
+      "fixture_id": 19433591,
+      "type_id": 58,
+      "participant_id": 1079,
+      "data": {
+        "value": 3
+      },
+      "location": "away",
+      "type": {
+        "id": 58,
+        "name": "Shots Blocked",
+        "code": "shots-blocked",
+        "developer_name": "SHOTS_BLOCKED",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653453553,
+      "fixture_id": 19433591,
+      "type_id": 580,
+      "participant_id": 510,
+      "data": {
+        "value": 1
+      },
+      "location": "home",
+      "type": {
+        "id": 580,
+        "name": "Big Chances Created",
+        "code": "big-chances-created",
+        "developer_name": "BIG_CHANCES_CREATED",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653716919,
+      "fixture_id": 19433591,
+      "type_id": 51,
+      "participant_id": 510,
+      "data": {
+        "value": 1
+      },
+      "location": "home",
+      "type": {
+        "id": 51,
+        "name": "Offsides",
+        "code": "offsides",
+        "developer_name": "OFFSIDES",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653716920,
+      "fixture_id": 19433591,
+      "type_id": 51,
+      "participant_id": 1079,
+      "data": {
+        "value": 1
+      },
+      "location": "away",
+      "type": {
+        "id": 51,
+        "name": "Offsides",
+        "code": "offsides",
+        "developer_name": "OFFSIDES",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653412316,
+      "fixture_id": 19433591,
+      "type_id": 84,
+      "participant_id": 1079,
+      "data": {
+        "value": 1
+      },
+      "location": "away",
+      "type": {
+        "id": 84,
+        "name": "Yellowcards",
+        "code": "yellowcards",
+        "developer_name": "YELLOWCARDS",
+        "model_type": "statistic",
+        "stat_group": "overall"
+      }
+    },
+    {
+      "id": 653874363,
+      "fixture_id": 19433591,
+      "type_id": 47,
+      "participant_id": 510,
+      "data": {
+        "value": 0
+      },
+      "location": "home",
+      "type": {
+        "id": 47,
+        "name": "Penalties",
+        "code": "penalties",
+        "developer_name": "PENALTIES",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653874364,
+      "fixture_id": 19433591,
+      "type_id": 47,
+      "participant_id": 1079,
+      "data": {
+        "value": 1
+      },
+      "location": "away",
+      "type": {
+        "id": 47,
+        "name": "Penalties",
+        "code": "penalties",
+        "developer_name": "PENALTIES",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653453554,
+      "fixture_id": 19433591,
+      "type_id": 580,
+      "participant_id": 1079,
+      "data": {
+        "value": 3
+      },
+      "location": "away",
+      "type": {
+        "id": 580,
+        "name": "Big Chances Created",
+        "code": "big-chances-created",
+        "developer_name": "BIG_CHANCES_CREATED",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    },
+    {
+      "id": 653453556,
+      "fixture_id": 19433591,
+      "type_id": 581,
+      "participant_id": 1079,
+      "data": {
+        "value": 3
+      },
+      "location": "away",
+      "type": {
+        "id": 581,
+        "name": "Big Chances Missed",
+        "code": "big-chances-missed",
+        "developer_name": "BIG_CHANCES_MISSED",
+        "model_type": "statistic",
+        "stat_group": "offensive"
+      }
+    }
+  ],
+  "participants": [
+    {
+      "id": 510,
+      "sport_id": 1,
+      "country_id": 11,
+      "venue_id": 80,
+      "gender": "male",
+      "name": "VfL Wolfsburg",
+      "short_code": "WOB",
+      "image_path": "https://cdn.sportmonks.com/images/soccer/teams/30/510.png",
+      "founded": 1945,
+      "type": "domestic",
+      "placeholder": false,
+      "last_played_at": "2025-12-06 14:30:00",
+      "meta": {
+        "location": "home",
+        "winner": true,
+        "position": 15
+      }
+    },
+    {
+      "id": 1079,
+      "sport_id": 1,
+      "country_id": 11,
+      "venue_id": 420,
+      "gender": "male",
+      "name": "FC Union Berlin",
+      "short_code": "FCU",
+      "image_path": "https://cdn.sportmonks.com/images/soccer/teams/23/1079.png",
+      "founded": 1966,
+      "type": "domestic",
+      "placeholder": false,
+      "last_played_at": "2025-12-06 14:30:00",
+      "meta": {
+        "location": "away",
+        "winner": false,
+        "position": 12
+      }
+    }
+  ],
+  "stage": {
+    "id": 77476914,
+    "sport_id": 1,
+    "league_id": 82,
+    "season_id": 25646,
+    "type_id": 223,
+    "name": "Regular Season",
+    "sort_order": 1,
+    "finished": false,
+    "is_current": true,
+    "starting_at": "2025-08-22",
+    "ending_at": "2026-05-16",
+    "games_in_current_week": false,
+    "tie_breaker_rule_id": null,
+    "type": {
+      "id": 223,
+      "name": "Group Stage",
+      "code": "group-stage",
+      "developer_name": "GROUP_STAGE",
+      "model_type": "stage_type",
+      "stat_group": null
+    }
+  },
+  "round": {
+    "id": 393431,
+    "sport_id": 1,
+    "league_id": 82,
+    "season_id": 25646,
+    "stage_id": 77476914,
+    "name": "13",
+    "finished": true,
+    "is_current": false,
+    "starting_at": "2025-12-05",
+    "ending_at": "2025-12-07",
+    "games_in_current_week": false
+  },
+  "venue": {
+    "id": 80,
+    "country_id": 11,
+    "city_id": 99532,
+    "name": "Volkswagen Arena",
+    "address": "In den Allerwiesen 1",
+    "zipcode": null,
+    "latitude": "52.431561",
+    "longitude": "10.803541",
+    "capacity": 30000,
+    "image_path": "https://cdn.sportmonks.com/images/soccer/venues/16/80.png",
+    "city_name": "Wolfsburg",
+    "surface": "grass",
+    "national_team": false,
+    "country": {
+      "id": 11,
+      "continent_id": 1,
+      "name": "Germany",
+      "official_name": "Federal Republic of Germany",
+      "fifa_name": "GER",
+      "iso2": "DE",
+      "iso3": "DEU",
+      "latitude": "51.20246505737305",
+      "longitude": "10.382203102111816",
+      "borders": [
+        "AUT",
+        "BEL",
+        "CZE",
+        "DNK",
+        "FRA",
+        "LUX",
+        "NLD",
+        "POL",
+        "CHE"
+      ],
+      "image_path": "https://cdn.sportmonks.com/images/countries/png/short/de.png",
+      "continent": {
+        "id": 1,
+        "name": "Europe",
+        "code": "EU"
+      }
+    },
+    "city": {
+      "id": 99532,
+      "country_id": 11,
+      "region_id": 83,
+      "name": "Wolfsburg",
+      "latitude": null,
+      "longitude": null
+    }
+  },
+  "referees": [
+    {
+      "id": 5856766,
+      "fixture_id": 19433591,
+      "referee_id": 11693,
+      "type_id": 6,
+      "referee": {
+        "id": 11693,
+        "sport_id": 1,
+        "country_id": 11,
+        "city_id": null,
+        "common_name": "R. Schröder",
+        "firstname": "Robert",
+        "lastname": "Schröder",
+        "name": "Robert Schröder",
+        "display_name": "R. Schröder",
+        "image_path": "https://cdn.sportmonks.com/images/soccer/placeholder.png",
+        "height": null,
+        "weight": null,
+        "date_of_birth": null,
+        "gender": null
+      },
+      "type": {
+        "id": 6,
+        "name": "Referee",
+        "code": "referee",
+        "developer_name": "REFEREE",
+        "model_type": "referee",
+        "stat_group": null
+      }
+    }
+  ],
+  "periods": [
+    {
+      "id": 6395259,
+      "fixture_id": 19433591,
+      "type_id": 1,
+      "started": 1765031456,
+      "ended": 1765034336,
+      "counts_from": 0,
+      "ticking": false,
+      "sort_order": 1,
+      "description": "1st-half",
+      "time_added": 2,
+      "period_length": 45,
+      "minutes": 48,
+      "seconds": 0,
+      "has_timer": false
+    },
+    {
+      "id": 6395682,
+      "fixture_id": 19433591,
+      "type_id": 2,
+      "started": 1765035278,
+      "ended": 1765038861,
+      "counts_from": 45,
+      "ticking": false,
+      "sort_order": 2,
+      "description": "2nd-half",
+      "time_added": 14,
+      "period_length": 45,
+      "minutes": 104,
+      "seconds": 43,
+      "has_timer": false
+    }
+  ],
+  "formations": [
+    {
+      "id": 8624256,
+      "fixture_id": 19433591,
+      "participant_id": 1079,
+      "formation": "5-3-2",
+      "location": "away"
+    },
+    {
+      "id": 8624255,
+      "fixture_id": 19433591,
+      "participant_id": 510,
+      "formation": "4-2-3-1",
+      "location": "home"
+    }
+  ],
+  "aggregate": null,
+  "group": null
+}
